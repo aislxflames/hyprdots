@@ -1,0 +1,42 @@
+2024/11/19-15:02:43.290 c63 Reusing MANIFEST /home/aislx/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/11/19-15:02:43.309 c63 Recovering log #48
+2024/11/19-15:02:43.406 c63 Reusing old log /home/aislx/.config/vesktop/sessionData/Local Storage/leveldb/000048.log 
+2024/11/19-15:20:55.620 c64 Level-0 table #52: started
+2024/11/19-15:20:55.665 c64 Level-0 table #52: 66590 bytes OK
+2024/11/19-15:20:55.695 c64 Delete type=0 #48
+2024/11/19-16:34:26.829 c63 Level-0 table #54: started
+2024/11/19-16:34:26.976 c63 Level-0 table #54: 27961 bytes OK
+2024/11/19-16:34:27.146 c63 Delete type=0 #51
+2024/11/19-16:54:37.826 c64 Level-0 table #56: started
+2024/11/19-16:54:37.877 c64 Level-0 table #56: 45582 bytes OK
+2024/11/19-16:54:37.944 c64 Delete type=0 #53
+2024/11/19-16:54:37.947 c63 Compacting 4@0 + 1@1 files
+2024/11/19-16:54:38.058 c63 Generated table #57@0: 43 keys, 50028 bytes
+2024/11/19-16:54:38.058 c63 Compacted 4@0 + 1@1 files => 50028 bytes
+2024/11/19-16:54:38.091 c63 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/19-16:54:38.092 c63 Delete type=2 #56
+2024/11/19-16:54:38.092 c63 Delete type=2 #54
+2024/11/19-16:54:38.092 c63 Delete type=2 #52
+2024/11/19-16:54:38.092 c63 Delete type=2 #49
+2024/11/19-16:54:38.092 c63 Delete type=2 #47
+2024/11/19-17:22:37.826 c64 Level-0 table #59: started
+2024/11/19-17:22:37.872 c64 Level-0 table #59: 20878 bytes OK
+2024/11/19-17:22:37.906 c64 Delete type=0 #55
+2024/11/19-17:42:37.977 c63 Level-0 table #61: started
+2024/11/19-17:42:37.999 c63 Level-0 table #61: 19495 bytes OK
+2024/11/19-17:42:38.030 c63 Delete type=0 #58
+2024/11/19-18:12:14.626 c63 Level-0 table #63: started
+2024/11/19-18:12:14.675 c63 Level-0 table #63: 69825 bytes OK
+2024/11/19-18:12:14.709 c63 Delete type=0 #60
+2024/11/19-18:12:20.465 c63 Level-0 table #65: started
+2024/11/19-18:12:20.487 c63 Level-0 table #65: 132034 bytes OK
+2024/11/19-18:12:20.520 c63 Delete type=0 #62
+2024/11/19-18:12:20.521 c63 Compacting 4@0 + 1@1 files
+2024/11/19-18:12:20.544 c63 Generated table #66@0: 46 keys, 153608 bytes
+2024/11/19-18:12:20.544 c63 Compacted 4@0 + 1@1 files => 153608 bytes
+2024/11/19-18:12:20.577 c63 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/19-18:12:20.578 c63 Delete type=2 #57
+2024/11/19-18:12:20.578 c63 Delete type=2 #65
+2024/11/19-18:12:20.578 c63 Delete type=2 #63
+2024/11/19-18:12:20.579 c63 Delete type=2 #61
+2024/11/19-18:12:20.579 c63 Delete type=2 #59

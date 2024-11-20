@@ -1,0 +1,15 @@
+[ExtractDialog]
+1366x768 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Downloads/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=529,135
+
+[Viewer]
+ToolBarsMovable=Disabled

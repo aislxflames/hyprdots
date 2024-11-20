@@ -1,0 +1,1402 @@
+2024-11-18 17:45:53.885 [info] Started local extension host with pid 281543.
+2024-11-18 17:45:54.550 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.551 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.552 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.553 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.553 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.553 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.554 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.554 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.554 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.557 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.557 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.557 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.558 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.558 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.558 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.558 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.559 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.559 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.559 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.560 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.561 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.561 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.562 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.562 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.562 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.563 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.563 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:45:54.563 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.563 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.563 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.564 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.564 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.564 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.564 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.565 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.565 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.566 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.566 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.569 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.570 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.570 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.571 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.571 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.573 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.573 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.573 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.574 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.574 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.575 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.575 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.576 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.577 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.578 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.578 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:45:54.578 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.579 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.579 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.579 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.579 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.580 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.580 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.580 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.581 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.581 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.581 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.581 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.581 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.581 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.582 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.582 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.582 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.585 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.585 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.586 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.586 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.586 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.587 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.587 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.588 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.588 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.588 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:45:54.589 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.589 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.589 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.590 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.590 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.590 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.590 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.590 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.591 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.591 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.591 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.591 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.592 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.592 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.592 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:45:54.592 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.592 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.593 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.594 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.594 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.594 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.595 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.595 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.595 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.596 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.596 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.597 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.597 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.597 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.598 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.598 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:45:54.599 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.601 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.601 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.601 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.602 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.602 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.602 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.604 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.604 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.605 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.605 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.605 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.606 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.606 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:54.607 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:45:56.713 [info] [perf] Render performance baseline is 71ms
+2024-11-18 17:46:01.547 [info] Started local extension host with pid 281605.
+2024-11-18 17:46:02.320 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.321 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.321 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.321 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.322 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.322 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.322 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.322 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.323 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.323 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.323 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.324 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.324 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.325 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.326 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.326 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.326 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.327 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.327 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.327 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.327 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.327 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.328 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.328 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.328 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.328 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.329 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2024-11-18 17:46:02.329 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.329 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.329 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.329 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.330 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.330 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.330 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.331 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.333 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.333 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.334 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.334 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.335 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.335 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.336 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.336 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.336 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.337 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.337 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.337 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.338 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.338 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.338 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.339 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.339 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.339 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.339 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2024-11-18 17:46:02.340 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.340 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.341 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.341 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.341 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.342 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.342 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.342 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.342 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.343 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.343 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.343 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.343 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.344 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.344 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.344 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.344 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.345 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.345 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.345 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.345 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.345 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.346 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.346 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.346 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.346 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.347 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2024-11-18 17:46:02.347 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.347 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.347 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.347 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.348 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.348 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.348 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.348 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.348 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.349 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.349 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.349 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.349 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.349 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.350 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: blade
+2024-11-18 17:46:02.350 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.350 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.350 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.350 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.351 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.351 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.351 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.351 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.351 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.351 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.351 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.352 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.352 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.352 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.352 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.352 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: vue-html
+2024-11-18 17:46:02.353 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.353 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.353 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.354 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.354 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.354 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.355 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.355 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.355 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.356 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.356 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.356 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.357 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.357 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:02.358 [error] [idleberg.icon-fonts-legacy]: Unknown language in `contributes.icon-fonts-legacy.language`. Provided value: svelte
+2024-11-18 17:46:04.255 [info] [perf] Render performance baseline is 55ms
+2024-11-18 17:46:11.597 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:11.597 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:11.598 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:11.598 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:13.218 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:13.218 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:13.219 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:13.219 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:15.903 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:15.904 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:15.904 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:15.904 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.836 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.837 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.837 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.838 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.838 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.838 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.838 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.839 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.839 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.839 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.839 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.840 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.840 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.840 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.840 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.841 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.841 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.841 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.841 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.842 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.842 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.842 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.843 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.843 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.843 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.843 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.844 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.844 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.844 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.844 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.844 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.845 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.845 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.845 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.845 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.846 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.846 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.846 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.846 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.846 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.846 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.847 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.847 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.847 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.847 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.847 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.847 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.847 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.848 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.848 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.848 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.848 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.848 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.848 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.849 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.849 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.849 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.849 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.849 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.849 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.850 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.852 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.853 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.853 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.853 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.854 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.854 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.854 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.854 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.854 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.854 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.855 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.856 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.856 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.857 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.857 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.857 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.858 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.858 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.860 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.860 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.862 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.862 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.862 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.863 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.863 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.864 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.865 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json
+2024-11-18 17:46:16.865 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 23)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/css/fi.json
+2024-11-18 17:46:16.866 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 47)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/html/fi.json
+2024-11-18 17:46:16.866 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 74)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/fi.json
+2024-11-18 17:46:16.867 [error] Error: Unable to read file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json')
+    at Pnt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69694)
+    at Pnt.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:69519)
+    at async Pnt.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:68887)
+    at async Wrt.readExtensionResource (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3114:2109)
+    at async Promise.all (index 76)
+    at async LPe.getSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:494:20141)
+    at async _si (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:3936)
+    at async Ett.provideCodeActions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2579:4931)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:411:65726
+    at async Promise.all (index 2) file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal/snippets/jsx/geomicon.json

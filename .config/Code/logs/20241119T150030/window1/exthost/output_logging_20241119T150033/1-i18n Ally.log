@@ -1,0 +1,213 @@
+🈶 Activated, v2.12.0
+
+――――――
+
+💼 Workspace root changed to "/run/media/drive2/Developing/flame-launcher"
+🌞 Enabled
+🧩 Enabled frameworks: Vue SFC, Vue
+🧬 Enabled parsers: json, yaml, json5
+
+📈 Telemetry id: 46a61926-4b2f-4361-a236-254f0d343cb2
+🚀 Initializing loader "/run/media/drive2/Developing/flame-launcher"
+📂 Directory structure: file
+🗃 Path Matcher Regex: /^(?<locale>[\w-_]+)\.(?<ext>json|ya?ml|json5)$/
+
+📂 Loading locales under /run/media/drive2/Developing/flame-launcher/xmcl-keystone-ui/locales
+	📑 Loading (de) de.yaml [1731956836919.7327]
+	📑 Loading (en) en.yaml [1731956792527.282]
+	📑 Loading (es-ES) es-ES.yaml [1731956836842.9702]
+	📑 Loading (fr) fr.yaml [1731956836845.0063]
+	📑 Loading (gl) gl.yaml [1731953360291.0251]
+	📑 Loading (hu) hu.yaml [1731956836843.005]
+	📑 Loading (it-IT) it-IT.yaml [1731956836843.7615]
+	📑 Loading (ja-JP) ja-JP.yaml [1731956836843.6357]
+	📑 Loading (kz) kz.yaml [1731953360294.184]
+	📑 Loading (pl) pl.yaml [1731956836841.7612]
+	📑 Loading (ru) ru.yaml [1731956836841.794]
+	📑 Loading (uk) uk.yaml [1731956836846.8909]
+	📑 Loading (zh-CN) zh-CN.yaml [1731956836838.563]
+	📑 Loading (zh-TW) zh-TW.yaml [1731956836841.8208]
+
+👀 Watching change on /run/media/drive2/Developing/flame-launcher/xmcl-keystone-ui/locales
+✅ Loading finished
+
+
+――――――
+
+🔄 File changed (change) de.yaml
+	📑 Loading (de) de.yaml [1731956836919.7327]
+🔄 File changed (change) en.yaml
+🔄 File changed (change) es-ES.yaml
+🔄 File changed (change) fr.yaml
+🔄 File changed (change) gl.yaml
+🔄 File changed (change) hu.yaml
+🔄 File changed (change) it-IT.yaml
+🔄 File changed (change) ja-JP.yaml
+🔄 File changed (change) kz.yaml
+🔄 File changed (change) pl.yaml
+🔄 File changed (change) ru.yaml
+🔄 File changed (change) uk.yaml
+🔄 File changed (change) zh-CN.yaml
+🔄 File changed (change) zh-TW.yaml
+✅ Loading finished
+
+	📑 Loading (en) en.yaml [1731956792527.282]
+	📑 Loading (es-ES) es-ES.yaml [1731956836842.9702]
+	📑 Loading (fr) fr.yaml [1731956836845.0063]
+	📑 Loading (gl) gl.yaml [1731953360291.0251]
+	📑 Loading (hu) hu.yaml [1731956836843.005]
+	📑 Loading (it-IT) it-IT.yaml [1731956836843.7615]
+	📑 Loading (ja-JP) ja-JP.yaml [1731956836843.6357]
+	📑 Loading (kz) kz.yaml [1731953360294.184]
+	📑 Loading (pl) pl.yaml [1731956836841.7612]
+	📑 Loading (ru) ru.yaml [1731956836841.794]
+	📑 Loading (uk) uk.yaml [1731956836846.8909]
+	📑 Loading (zh-CN) zh-CN.yaml [1731956836838.563]
+	📑 Loading (zh-TW) zh-TW.yaml [1731956836841.8208]
+✅ Loading finished
+
+🔄 File changed (change) de.yaml
+	📑 Loading (de) de.yaml [1731956836919.7327]
+🔄 File changed (change) en.yaml
+🔄 File changed (change) es-ES.yaml
+🔄 File changed (change) fr.yaml
+🔄 File changed (change) gl.yaml
+🔄 File changed (change) hu.yaml
+🔄 File changed (change) it-IT.yaml
+🔄 File changed (change) ja-JP.yaml
+🔄 File changed (change) kz.yaml
+🔄 File changed (change) pl.yaml
+🔄 File changed (change) ru.yaml
+🔄 File changed (change) uk.yaml
+🔄 File changed (change) zh-CN.yaml
+🔄 File changed (change) zh-TW.yaml
+🔄 File changed (change) de.yaml
+🔄 File changed (change) en.yaml
+🔄 File changed (change) es-ES.yaml
+🔄 File changed (change) fr.yaml
+🔄 File changed (change) gl.yaml
+🔄 File changed (change) hu.yaml
+🔄 File changed (change) it-IT.yaml
+🔄 File changed (change) ja-JP.yaml
+🔄 File changed (change) kz.yaml
+🔄 File changed (change) pl.yaml
+🔄 File changed (change) ru.yaml
+🔄 File changed (change) uk.yaml
+🔄 File changed (change) zh-CN.yaml
+🔄 File changed (change) zh-TW.yaml
+✅ Loading finished
+
+	📑 Loading (en) en.yaml [1731956792527.282]
+	📑 Loading (es-ES) es-ES.yaml [1731956836842.9702]
+	📑 Loading (fr) fr.yaml [1731956836845.0063]
+	📑 Loading (gl) gl.yaml [1731953360291.0251]
+	📑 Loading (hu) hu.yaml [1731956836843.005]
+	📑 Loading (it-IT) it-IT.yaml [1731956836843.7615]
+	📑 Loading (ja-JP) ja-JP.yaml [1731956836843.6357]
+	📑 Loading (kz) kz.yaml [1731953360294.184]
+	📑 Loading (pl) pl.yaml [1731956836841.7612]
+	📑 Loading (ru) ru.yaml [1731956836841.794]
+	📑 Loading (uk) uk.yaml [1731956836846.8909]
+	📑 Loading (zh-CN) zh-CN.yaml [1731956836838.563]
+	📑 Loading (zh-TW) zh-TW.yaml [1731956836841.8208]
+	📑 Loading (de) de.yaml [1731956836919.7327]
+✅ Loading finished
+
+🔄 File changed (change) de.yaml
+	📑 Loading (de) de.yaml [1731956836919.7327]
+🔄 File changed (change) en.yaml
+🔄 File changed (change) es-ES.yaml
+🔄 File changed (change) fr.yaml
+🔄 File changed (change) gl.yaml
+🔄 File changed (change) hu.yaml
+🔄 File changed (change) it-IT.yaml
+🔄 File changed (change) ja-JP.yaml
+🔄 File changed (change) kz.yaml
+🔄 File changed (change) pl.yaml
+🔄 File changed (change) ru.yaml
+🔄 File changed (change) uk.yaml
+🔄 File changed (change) zh-CN.yaml
+🔄 File changed (change) zh-TW.yaml
+	📑 Loading (en) en.yaml [1731956792527.282]
+✅ Loading finished
+
+	📑 Loading (es-ES) es-ES.yaml [1731956836842.9702]
+	📑 Loading (fr) fr.yaml [1731956836845.0063]
+	📑 Loading (gl) gl.yaml [1731953360291.0251]
+	📑 Loading (hu) hu.yaml [1731956836843.005]
+	📑 Loading (it-IT) it-IT.yaml [1731956836843.7615]
+	📑 Loading (ja-JP) ja-JP.yaml [1731956836843.6357]
+	📑 Loading (kz) kz.yaml [1731953360294.184]
+	📑 Loading (pl) pl.yaml [1731956836841.7612]
+	📑 Loading (ru) ru.yaml [1731956836841.794]
+	📑 Loading (uk) uk.yaml [1731956836846.8909]
+	📑 Loading (zh-CN) zh-CN.yaml [1731956836838.563]
+	📑 Loading (zh-TW) zh-TW.yaml [1731956836841.8208]
+✅ Loading finished
+
+🔄 File changed (change) de.yaml
+	📑 Loading (de) de.yaml [1731956836919.7327]
+🔄 File changed (change) en.yaml
+🔄 File changed (change) es-ES.yaml
+🔄 File changed (change) fr.yaml
+🔄 File changed (change) gl.yaml
+🔄 File changed (change) hu.yaml
+🔄 File changed (change) it-IT.yaml
+🔄 File changed (change) ja-JP.yaml
+🔄 File changed (change) kz.yaml
+🔄 File changed (change) pl.yaml
+🔄 File changed (change) ru.yaml
+🔄 File changed (change) uk.yaml
+🔄 File changed (change) zh-CN.yaml
+🔄 File changed (change) zh-TW.yaml
+✅ Loading finished
+
+	📑 Loading (en) en.yaml [1731956792527.282]
+	📑 Loading (es-ES) es-ES.yaml [1731956836842.9702]
+	📑 Loading (fr) fr.yaml [1731956836845.0063]
+	📑 Loading (gl) gl.yaml [1731953360291.0251]
+	📑 Loading (hu) hu.yaml [1731956836843.005]
+	📑 Loading (it-IT) it-IT.yaml [1731956836843.7615]
+	📑 Loading (ja-JP) ja-JP.yaml [1731956836843.6357]
+	📑 Loading (kz) kz.yaml [1731953360294.184]
+	📑 Loading (pl) pl.yaml [1731956836841.7612]
+	📑 Loading (ru) ru.yaml [1731956836841.794]
+	📑 Loading (uk) uk.yaml [1731956836846.8909]
+	📑 Loading (zh-CN) zh-CN.yaml [1731956836838.563]
+	📑 Loading (zh-TW) zh-TW.yaml [1731956836841.8208]
+✅ Loading finished
+
+🔄 File changed (delete) kz.yaml
+✅ Loading finished
+
+🔄 File changed (delete) ja-JP.yaml
+🔄 File changed (change) de.yaml
+	📑 Loading (de) de.yaml [1732015183947.827]
+🔄 File changed (change) en.yaml
+🔄 File changed (change) es-ES.yaml
+🔄 File changed (change) fr.yaml
+🔄 File changed (change) gl.yaml
+🔄 File changed (change) hu.yaml
+🔄 File changed (change) it-IT.yaml
+🔄 File changed (change) pl.yaml
+🔄 File changed (change) ru.yaml
+🔄 File changed (change) uk.yaml
+🔄 File changed (change) zh-CN.yaml
+🔄 File changed (change) zh-TW.yaml
+✅ Loading finished
+
+✅ Loading finished
+
+	📑 Loading (en) en.yaml [1732015183949.3113]
+	📑 Loading (es-ES) es-ES.yaml [1732015183950.5334]
+	📑 Loading (fr) fr.yaml [1732015183952.6255]
+	📑 Loading (gl) gl.yaml [1732015183953.4448]
+	📑 Loading (hu) hu.yaml [1732015183956.712]
+	📑 Loading (it-IT) it-IT.yaml [1732015183959.3088]
+	📑 Loading (pl) pl.yaml [1732015183960.8047]
+	📑 Loading (ru) ru.yaml [1732015183962.3862]
+	📑 Loading (uk) uk.yaml [1732015183965.2004]
+	📑 Loading (zh-CN) zh-CN.yaml [1732015183971.9036]
+	📑 Loading (zh-TW) zh-TW.yaml [1732015183973.5781]
+✅ Loading finished
+

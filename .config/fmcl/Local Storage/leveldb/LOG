@@ -1,0 +1,6 @@
+2024/11/20-09:10:58.383 3dcb Reusing MANIFEST /home/aislx/.config/fmcl/Local Storage/leveldb/MANIFEST-000001
+2024/11/20-09:10:58.383 3dcb Recovering log #6
+2024/11/20-09:10:58.388 3dcb Reusing old log /home/aislx/.config/fmcl/Local Storage/leveldb/000006.log 
+2024/11/20-09:11:19.599 3c73 Level-0 table #10: started
+2024/11/20-09:11:19.653 3c73 Level-0 table #10: 59972 bytes OK
+2024/11/20-09:11:19.799 3c73 Delete type=0 #6

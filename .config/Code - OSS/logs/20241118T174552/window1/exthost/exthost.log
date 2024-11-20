@@ -1,0 +1,28 @@
+2024-11-18 17:45:54.620 [info] Extension host with pid 281543 started
+2024-11-18 17:45:54.866 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-18 17:45:55.085 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-18 17:45:55.118 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-18 17:45:55.229 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-18 17:45:55.327 [info] Eager extensions activated
+2024-11-18 17:45:55.429 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 17:45:55.433 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 17:45:55.464 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 17:45:55.585 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 17:46:00.847 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-18 17:46:00.853 [info] Extension host with pid 281543 exiting with code 0
+2024-11-18 17:46:02.365 [info] Extension host with pid 281605 started
+2024-11-18 17:46:02.365 [info] Skipping acquiring lock for /home/aislx/.config/Code - OSS/User/workspaceStorage/ab55b68a18e0cd4cfba8c7582e497199.
+2024-11-18 17:46:02.632 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-18 17:46:02.676 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-18 17:46:02.697 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-18 17:46:02.809 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-18 17:46:03.353 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-18 17:46:03.360 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-18 17:46:03.435 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-18 17:46:03.504 [info] Eager extensions activated
+2024-11-18 17:46:03.539 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 17:46:03.542 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 17:46:03.571 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 17:46:03.647 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 17:46:16.784 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-18 17:46:16.804 [info] Extension host with pid 281605 exiting with code 0

@@ -1,0 +1,36 @@
+{
+  "locale": "en",
+  "autoInstallOnAppQuit": false,
+  "autoDownload": false,
+  "allowPrerelease": false,
+  "apiSets": [
+    {
+      "name": "bmcl",
+      "url": "https://bmclapi2.bangbang93.com"
+    }
+  ],
+  "apiSetsPreference": "",
+  "allowTurn": false,
+  "httpProxy": "",
+  "httpProxyEnabled": false,
+  "theme": "system",
+  "maxSockets": 64,
+  "globalMinMemory": 0,
+  "globalMaxMemory": 0,
+  "globalAssignMemory": false,
+  "globalVmOptions": [],
+  "globalMcOptions": [],
+  "globalFastLaunch": true,
+  "globalHideLauncher": true,
+  "globalShowLog": false,
+  "globalPrependCommand": "",
+  "discordPresence": true,
+  "developerMode": true,
+  "disableTelemetry": true,
+  "linuxTitlebar": false,
+  "globalDisableAuthlibInjector": false,
+  "globalDisableElyByAuthlib": false,
+  "enableDedicatedGPUOptimization": true,
+  "replaceNatives": "legacy-only",
+  "maxAPISockets": 16
+}

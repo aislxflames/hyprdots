@@ -1,0 +1,7 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.colorTheme": "Wal Bordered",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "editor.minimap.enabled": false,
+    "window.customTitleBarVisibility": "auto"
+}

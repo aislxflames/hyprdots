@@ -1,0 +1,12 @@
+[general]
+# Enable gradient mode and set the gradient colors
+gradient = 1
+gradient_count = 8
+gradient_color_1 = '#000000'    # color0 from pywal (black)
+gradient_color_2 = '#ff0000'    # color1 from pywal (red)
+gradient_color_3 = '#00ff00'    # color2 from pywal (green)
+gradient_color_4 = '#0000ff'    # color3 from pywal (blue)
+gradient_color_5 = '#ffff00'    # color4 from pywal (yellow)
+gradient_color_6 = '#ff00ff'    # color5 from pywal (magenta)
+gradient_color_7 = '#00ffff'    # color6 from pywal (cyan)
+gradient_color_8 = '#ffffff'    # color7 from pywal (white)

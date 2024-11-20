@@ -1,0 +1,27 @@
+{
+  "users": {
+    "https://c9049b73a2da499086d3935688d4e9ed@authserver.ely.by/api/authlib-injector": {
+      "id": "https://c9049b73a2da499086d3935688d4e9ed@authserver.ely.by/api/authlib-injector",
+      "username": "proarghaop@gmail.com",
+      "invalidated": true,
+      "profiles": {
+        "c9049b73a2da499086d3935688d4e9ed": {
+          "id": "c9049b73a2da499086d3935688d4e9ed",
+          "name": "AislxFlamEs_OP",
+          "properties": {
+            "textures": "eyJ0aW1lc3RhbXAiOjE3MzIwMTQxOTY0MjUsInByb2ZpbGVJZCI6ImM5MDQ5YjczYTJkYTQ5OTA4NmQzOTM1Njg4ZDRlOWVkIiwicHJvZmlsZU5hbWUiOiJBaXNseEZsYW1Fc19PUCIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL2VseS5ieS9taW5lY3JhZnQvc2tpbnMvMzBmMDBmYzg5ZjNhMzU4MDI5M2ZlMDJlZDkxMTM5MzQucG5nIn19fQ==",
+            "ely": "but why are you asking?"
+          },
+          "textures": {
+            "SKIN": {
+              "url": "http://ely.by/minecraft/skins/30f00fc89f3a3580293fe02ed9113934.png"
+            }
+          }
+        }
+      },
+      "selectedProfile": "c9049b73a2da499086d3935688d4e9ed",
+      "expiredAt": 1732100596335,
+      "authority": "https://authserver.ely.by/api/authlib-injector"
+    }
+  }
+}

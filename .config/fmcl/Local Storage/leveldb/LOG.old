@@ -1,0 +1,8 @@
+2024/11/19-16:32:10.085 72ce Creating DB /home/aislx/.config/fmcl/Local Storage/leveldb since it was missing.
+2024/11/19-16:32:10.480 72ce Reusing MANIFEST /home/aislx/.config/fmcl/Local Storage/leveldb/MANIFEST-000001
+2024/11/19-16:33:10.488 7297 Level-0 table #5: started
+2024/11/19-16:33:10.512 7297 Level-0 table #5: 49281 bytes OK
+2024/11/19-16:33:10.546 7297 Delete type=0 #3
+2024/11/19-16:33:33.248 7296 Level-0 table #7: started
+2024/11/19-16:33:33.276 7296 Level-0 table #7: 89461 bytes OK
+2024/11/19-16:33:33.330 7296 Delete type=0 #4

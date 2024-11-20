@@ -1,0 +1,49 @@
+2024-11-18 14:47:41.912 [info] Getting Manifest... esbenp.prettier-vscode
+2024-11-18 14:47:43.579 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json","path":"/home/aislx/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-18 14:47:58.324 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-18 14:47:58.324 [info] Extension signature verification is not done: esbenp.prettier-vscode
+2024-11-18 14:47:58.452 [info] Extracted extension to file:///home/aislx/.vscode-oss/extensions/esbenp.prettier-vscode-11.0.0-universal: esbenp.prettier-vscode
+2024-11-18 14:47:58.485 [info] Renamed to /home/aislx/.vscode-oss/extensions/esbenp.prettier-vscode-11.0.0-universal
+2024-11-18 14:47:58.536 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json
+2024-11-18 15:51:18.602 [info] Getting Manifest... pkief.material-icon-theme
+2024-11-18 15:51:19.997 [info] Getting Manifest... janw4ld.lambda-black
+2024-11-18 15:51:20.631 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json","path":"/home/aislx/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-18 15:51:20.786 [info] Installing extension: janw4ld.lambda-black {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json","path":"/home/aislx/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-18 15:51:21.317 [info] Getting Manifest... mitchellmedeiros.midnight-xenon
+2024-11-18 15:51:22.677 [info] Installing extension: mitchellmedeiros.midnight-xenon {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json","path":"/home/aislx/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-18 15:51:22.804 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-18 15:51:22.804 [info] Extension signature verification is not done: janw4ld.lambda-black
+2024-11-18 15:51:22.819 [info] Extracted extension to file:///home/aislx/.vscode-oss/extensions/janw4ld.lambda-black-0.2.15-universal: janw4ld.lambda-black
+2024-11-18 15:51:22.848 [info] Renamed to /home/aislx/.vscode-oss/extensions/janw4ld.lambda-black-0.2.15-universal
+2024-11-18 15:51:22.886 [info] Extension installed successfully: janw4ld.lambda-black vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json
+2024-11-18 15:51:22.943 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-18 15:51:38.602 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-18 15:51:38.603 [info] Extension signature verification is not done: mitchellmedeiros.midnight-xenon
+2024-11-18 15:51:39.567 [info] Extracted extension to file:///home/aislx/.vscode-oss/extensions/mitchellmedeiros.midnight-xenon-1.5.1-universal: mitchellmedeiros.midnight-xenon
+2024-11-18 15:51:39.621 [info] Renamed to /home/aislx/.vscode-oss/extensions/mitchellmedeiros.midnight-xenon-1.5.1-universal
+2024-11-18 15:51:39.648 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-18 15:51:39.648 [info] Extension signature verification is not done: pkief.material-icon-theme
+2024-11-18 15:51:39.680 [info] Extension installed successfully: mitchellmedeiros.midnight-xenon vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json
+2024-11-18 15:51:39.720 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-18 15:51:40.455 [info] Extracted extension to file:///home/aislx/.vscode-oss/extensions/pkief.material-icon-theme-5.14.1-universal: pkief.material-icon-theme
+2024-11-18 15:51:40.518 [info] Renamed to /home/aislx/.vscode-oss/extensions/pkief.material-icon-theme-5.14.1-universal
+2024-11-18 15:51:40.566 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json
+2024-11-18 15:51:40.609 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

@@ -1,0 +1,28 @@
+2024-11-17 23:41:19.490 [info] Getting Manifest... idleberg.icon-fonts
+2024-11-17 23:41:20.775 [info] Getting Manifest... idleberg.icon-fonts-legacy
+2024-11-17 23:41:21.536 [info] Installing extension: idleberg.icon-fonts {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json","path":"/home/aislx/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-17 23:41:21.740 [info] Installing extension: idleberg.icon-fonts-legacy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json","path":"/home/aislx/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"}}
+2024-11-17 23:41:24.955 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-17 23:41:24.956 [info] Extension signature verification is not done: idleberg.icon-fonts-legacy
+2024-11-17 23:41:25.054 [info] Extracted extension to file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-legacy-1.11.0-universal: idleberg.icon-fonts-legacy
+2024-11-17 23:41:25.086 [info] Renamed to /home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-legacy-1.11.0-universal
+2024-11-17 23:41:25.162 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-17 23:41:25.164 [info] Extension installed successfully: idleberg.icon-fonts-legacy vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json
+2024-11-17 23:41:28.138 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-11-17 23:41:28.139 [info] Extension signature verification is not done: idleberg.icon-fonts
+2024-11-17 23:41:28.308 [info] Extracted extension to file:///home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal: idleberg.icon-fonts
+2024-11-17 23:41:28.346 [info] Renamed to /home/aislx/.vscode-oss/extensions/idleberg.icon-fonts-2.5.4-universal
+2024-11-17 23:41:28.419 [info] Extension installed successfully: idleberg.icon-fonts vscode-userdata:/home/aislx/.vscode-oss/extensions/extensions.json
+2024-11-17 23:41:28.450 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aislx/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

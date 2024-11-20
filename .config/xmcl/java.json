@@ -1,0 +1,12 @@
+{
+  "all": [
+    {
+      "path": "/usr/lib/jvm/default/bin/java",
+      "version": "23",
+      "majorVersion": 23,
+      "patch": -1,
+      "valid": true,
+      "arch": "x64"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+2024/11/19-19:49:26.495 380 Reusing MANIFEST /home/aislx/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/11/19-19:49:26.528 380 Recovering log #64
+2024/11/19-19:49:26.838 380 Reusing old log /home/aislx/.config/vesktop/sessionData/Local Storage/leveldb/000064.log 
+2024/11/19-19:51:27.552 380 Level-0 table #69: started
+2024/11/19-19:51:27.589 380 Level-0 table #69: 52314 bytes OK
+2024/11/19-19:51:27.623 380 Delete type=0 #64
+2024/11/19-20:16:47.292 381 Level-0 table #71: started
+2024/11/19-20:16:47.363 381 Level-0 table #71: 62857 bytes OK
+2024/11/19-20:16:47.407 381 Delete type=0 #68

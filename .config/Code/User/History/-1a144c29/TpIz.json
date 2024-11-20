@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"i18n-ally.enabledFrameworks": [
+			"vue-sfc",
+			"vue"
+		],
+		"i18n-ally.editor.preferEditor": true,
+		"i18n-ally.keystyle": "nested",
+		"i18n-ally.sortKeys": true,
+		"search.followSymlinks": false,
+		"i18n-ally.keysInUse": [
+			"curseforgeCategory.Armor, Tools, and Weapons",
+			"curseforgeCategory.Utility & QoL",
+			"curseforgeCategory.Vanilla+",
+			"installForge.downloadInstaller",
+			"dependencies.embedded"
+		]
+	}
+}

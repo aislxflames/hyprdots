@@ -1,0 +1,297 @@
+[INFO] [11/20/2024, 9:10:57 AM] [App] Success to load windows utils!
+[INFO] [11/20/2024, 9:10:57 AM] [App] Boot from /home/aislx/.config/xmcl
+[INFO] [11/20/2024, 9:10:58 AM] [App] Successfully register the xmcl protocol
+[INFO] [11/20/2024, 9:10:58 AM] [App] Localhost server is listening on port 25555
+[INFO] [11/20/2024, 9:10:58 AM] [App] cwd: /home/aislx. env: production
+[INFO] [11/20/2024, 9:10:58 AM] [App] Didn't find the start up url, try to load from config file.
+[INFO] [11/20/2024, 9:10:58 AM] [LogConsumer] Set log root to /home/aislx/.config/xmcl/logs
+[INFO] [11/20/2024, 9:10:58 AM] [Telemtry] Telemetry client started
+[INFO] [11/20/2024, 9:10:58 AM] [Flights] Flights loaded {}
+[INFO] [11/20/2024, 9:10:58 AM] [Controller] Activate app KeyStone Launcher http://xmcl.runtime/index.html
+[INFO] [11/20/2024, 9:10:58 AM] [i18n] Set locale for the app English
+[INFO] [11/20/2024, 9:10:58 AM] [GFW] Detected current in Chinese Mainland.
+[INFO] [11/20/2024, 9:10:58 AM] [Controller] http://xmcl.runtime/index.html
+[INFO] [11/20/2024, 9:10:58 AM] [Controller] Load main window url http://xmcl.runtime/index.html
+[INFO] [11/20/2024, 9:10:58 AM] [App] Current launcher core version is 1.1.0.
+[INFO] [11/20/2024, 9:10:58 AM] [App] App booted
+[INFO] [11/20/2024, 9:10:58 AM] [Flights] Fetched flights {}
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service UserService
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service JavaService
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service VersionService
+[INFO] [11/20/2024, 9:10:59 AM] [VersionService] Acquire singleton VersionService.refreshVersions()
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service InstanceService
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service PeerServiceKey
+[INFO] [11/20/2024, 9:10:59 AM] [PeerService] Initialized in 0ms.
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service BaseService
+[INFO] [11/20/2024, 9:10:59 AM] [BaseService] Acquire singleton BaseService.checkUpdate()
+[INFO] [11/20/2024, 9:10:59 AM] [BaseService] Initialized in 0ms.
+[INFO] [11/20/2024, 9:10:59 AM] [BaseService] Check update
+[INFO] [11/20/2024, 9:10:59 AM] [ElectronUpdater] Check update via Deprecated. Do not use it.
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service InstanceSavesService
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service InstanceInstallService
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service LaunchService
+[INFO] [11/20/2024, 9:10:59 AM] [InstanceSavesService] Initialized in 36ms.
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service YggdrasilService
+[INFO] [11/20/2024, 9:10:59 AM] [VersionService] Scan /home/aislx/.config/xmcl/versions versions
+[INFO] [11/20/2024, 9:10:59 AM] [VersionService] No local game version found.
+[INFO] [11/20/2024, 9:10:59 AM] [VersionService] Release singleton VersionService.refreshVersions(). Took 77ms.
+[INFO] [11/20/2024, 9:10:59 AM] [VersionService] Initialized in 87ms.
+[INFO] [11/20/2024, 9:10:59 AM] [InstanceService] Found 0 managed instances and 0 external instances.
+[INFO] [11/20/2024, 9:10:59 AM] [InstanceService] Initialized in 65ms.
+[INFO] [11/20/2024, 9:10:59 AM] [YggdrasilService] Initialized in 31ms.
+[INFO] [11/20/2024, 9:10:59 AM] [UserService] Load 1 users
+[INFO] [11/20/2024, 9:10:59 AM] [UserService] Acquire singleton UserService.refreshUser(https://c9049b73a2da499086d3935688d4e9ed@authserver.ely.by/api/authlib-injector)
+[INFO] [11/20/2024, 9:10:59 AM] [UserService] Initialized in 138ms.
+[INFO] [11/20/2024, 9:10:59 AM] [UserService] Release singleton UserService.refreshUser(https://c9049b73a2da499086d3935688d4e9ed@authserver.ely.by/api/authlib-injector). Took 3ms.
+[INFO] [11/20/2024, 9:10:59 AM] [UserService] Failed to refresh user https://c9049b73a2da499086d3935688d4e9ed@authserver.ely.by/api/authlib-injector UserException: 
+    at UserService.refreshUser (/1.1.0/index.js:181:17468)
+    at Function.all (<anonymous>) {
+  exception: { type: 'userAccessTokenExpired' }
+}
+[INFO] [11/20/2024, 9:10:59 AM] [JavaService] Loaded 1 java from cache.
+[INFO] [11/20/2024, 9:10:59 AM] [JavaService] Acquire singleton JavaService.refreshLocalJava()
+[INFO] [11/20/2024, 9:10:59 AM] [JavaService] Re-validate cached 1 java locations.
+[INFO] [11/20/2024, 9:10:59 AM] [JavaService] Initialized in 137ms.
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service VersionMetadataService
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service PresenceService
+[INFO] [11/20/2024, 9:10:59 AM] [PresenceService] Initialized in 6ms.
+[INFO] [11/20/2024, 9:10:59 AM] [JavaService] Release singleton JavaService.refreshLocalJava(). Took 104ms.
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service InstanceScreenshotService
+[INFO] [11/20/2024, 9:10:59 AM] [Controller] App Window is ready to show!
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service ProjectMappingService
+[INFO] [11/20/2024, 9:10:59 AM] [Services] Create service InstanceModsService
+[INFO] [11/20/2024, 9:10:59 AM] [UserService] Acquire singleton UserService.refreshUser(https://c9049b73a2da499086d3935688d4e9ed@authserver.ely.by/api/authlib-injector)
+[INFO] [11/20/2024, 9:10:59 AM] [UserService] Release singleton UserService.refreshUser(https://c9049b73a2da499086d3935688d4e9ed@authserver.ely.by/api/authlib-injector). Took 3ms.
+[WARN] [11/20/2024, 9:10:59 AM] [Services] Error during service call UserService.refreshUser:
+[ERROR] [11/20/2024, 9:10:59 AM] [UserService] UserException: 
+    at UserService.refreshUser (/1.1.0/index.js:181:17468)
+    at handleServiceCall (/1.1.0/index.js:245:16404)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:78381)
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceService] Created instance with option
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceService] {
+    "path": "/home/aislx/.config/xmcl/instances/Minecraft",
+    "name": "Minecraft",
+    "resolution": {
+        "width": 800,
+        "height": 400,
+        "fullscreen": false
+    },
+    "url": "",
+    "icon": "",
+    "runtime": {
+        "minecraft": "1.20.6",
+        "forge": "",
+        "liteloader": "",
+        "fabricLoader": "",
+        "yarn": "",
+        "optifine": "",
+        "quiltLoader": "",
+        "neoForged": "",
+        "labyMod": ""
+    },
+    "java": "",
+    "version": "",
+    "server": null,
+    "author": "",
+    "description": "",
+    "lastAccessDate": 1732074060017,
+    "creationDate": 1732074060017,
+    "modpackVersion": "",
+    "fileApi": "",
+    "tags": [],
+    "lastPlayedDate": 0,
+    "playtime": 0
+}
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceService] Modify instance /home/aislx/.config/xmcl/instances/Minecraft (undefined) {
+    "lastAccessDate": 1732074060096
+}.
+[INFO] [11/20/2024, 9:11:00 AM] [Services] Create service InstanceOptionsService
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceOptionsService] Start to watch instance options.txt in /home/aislx/.config/xmcl/instances/Minecraft
+[INFO] [11/20/2024, 9:11:00 AM] [Services] Create service InstanceResourcePacksService
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceResourcePackService] Initialized in 3ms.
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceModsService] Mounted on instance mods: /home/aislx/.config/xmcl/instances/Minecraft/mods
+[INFO] [11/20/2024, 9:11:00 AM] [Services] Create service InstanceShaderPacksService
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceShaderPacksService] Acquire locks: shaderpacks//home/aislx/.config/xmcl/instances/Minecraft
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceShaderPacksService] Linking the at domain to /home/aislx/.config/xmcl/instances/Minecraft/shaderpacks
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceSavesService] Found 0 saves in instance /home/aislx/.config/xmcl/instances/Minecraft
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceShaderPacksService] Initialized in 11ms.
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceShaderPacksService] Release locks: shaderpacks//home/aislx/.config/xmcl/instances/Minecraft
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceService] Saved instance /home/aislx/.config/xmcl/instances/Minecraft
+[INFO] [11/20/2024, 9:11:00 AM] [InstanceOptionsService] Edit gamesetting: {
+    "lang": "en",
+    "resourcePacks": []
+} to /home/aislx/.config/xmcl/instances/Minecraft
+[INFO] [11/20/2024, 9:11:00 AM] [ProjectMappingService] Initialized in 873ms.
+[WARN] [11/20/2024, 9:11:01 AM] [ElectronUpdater] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/aislxflames/flame-launcher/releases/download/v1.1.0/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/theflames-presence/flame-launcher/releases/download/v1.1.0/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "cache-control": "no-cache",
+  "content-encoding": "gzip",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-type": "text/plain; charset=utf-8",
+  "date": "Wed, 20 Nov 2024 03:41:01 GMT",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-request-id": "9D74:3D4647:4DC855:5A183F:673D5A4D",
+  "x-xss-protection": "0"
+}
+    at createHttpError (/1.1.0/index.js:67:2772)
+    at ElectronHttpExecutor.handleResponse (/1.1.0/index.js:69:2874)
+    at ClientRequest.<anonymous> (/1.1.0/index.js:69:1848)
+    at ClientRequest.emit (node:events:514:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109533)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+    at SimpleURLLoaderWrapper.callbackTrampoline (node:internal/async_hooks:130:17)
+    at newError (/1.1.0/index.js:84:15004)
+    at fetchData (/1.1.0/index.js:117:666)
+    at GitHubProvider.getLatestVersion (/1.1.0/index.js:117:1017)
+    at DebUpdater.getUpdateInfoAndProvider (/1.1.0/index.js:117:18000)
+    at DebUpdater.import_electron_updater2.AppUpdater.getUpdateInfoAndProvider (/1.1.0/index.js:329:97336)
+    at DebUpdater.doCheckForUpdates (/1.1.0/index.js:117:18299)
+    at ElectronUpdater.#getUpdateFromAutoUpdater (/1.1.0/index.js:330:2348)
+    at TaskRoutine.executor (/1.1.0/index.js:330:4904) {
+  code: 'ERR_UPDATER_CHANNEL_FILE_NOT_FOUND'
+}
+[INFO] [11/20/2024, 9:11:01 AM] [TaskManager] Task done and delete record!
+[WARN] [11/20/2024, 9:11:01 AM] [TaskManager] Task checkUpdate (TaskRoutine) checkUpdate(fb00318b-dfbc-4edb-9a34-3e2b4fe2a150) failed!
+[WARN] [11/20/2024, 9:11:01 AM] [TaskManager] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/aislxflames/flame-launcher/releases/download/v1.1.0/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/theflames-presence/flame-launcher/releases/download/v1.1.0/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "cache-control": "no-cache",
+  "content-encoding": "gzip",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-type": "text/plain; charset=utf-8",
+  "date": "Wed, 20 Nov 2024 03:41:01 GMT",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-request-id": "9D74:3D4647:4DC855:5A183F:673D5A4D",
+  "x-xss-protection": "0"
+}
+    at createHttpError (/1.1.0/index.js:67:2772)
+    at ElectronHttpExecutor.handleResponse (/1.1.0/index.js:69:2874)
+    at ClientRequest.<anonymous> (/1.1.0/index.js:69:1848)
+    at ClientRequest.emit (node:events:514:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109533)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+    at SimpleURLLoaderWrapper.callbackTrampoline (node:internal/async_hooks:130:17)
+    at newError (/1.1.0/index.js:84:15004)
+    at fetchData (/1.1.0/index.js:117:666)
+    at GitHubProvider.getLatestVersion (/1.1.0/index.js:117:1017)
+    at DebUpdater.getUpdateInfoAndProvider (/1.1.0/index.js:117:18000)
+    at DebUpdater.import_electron_updater2.AppUpdater.getUpdateInfoAndProvider (/1.1.0/index.js:329:97336)
+    at DebUpdater.doCheckForUpdates (/1.1.0/index.js:117:18299)
+    at ElectronUpdater.#getUpdateFromAutoUpdater (/1.1.0/index.js:330:2348)
+    at TaskRoutine.executor (/1.1.0/index.js:330:4904) {
+  code: 'ERR_UPDATER_CHANNEL_FILE_NOT_FOUND'
+}
+[ERROR] [11/20/2024, 9:11:01 AM] [BaseService] Error: Check update failed
+    at BaseService.checkUpdate (/1.1.0/index.js:187:4708)
+Caused by: Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/aislxflames/flame-launcher/releases/download/v1.1.0/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/theflames-presence/flame-launcher/releases/download/v1.1.0/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "cache-control": "no-cache",
+  "content-encoding": "gzip",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-type": "text/plain; charset=utf-8",
+  "date": "Wed, 20 Nov 2024 03:41:01 GMT",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-request-id": "9D74:3D4647:4DC855:5A183F:673D5A4D",
+  "x-xss-protection": "0"
+}
+    at createHttpError (/1.1.0/index.js:67:2772)
+    at ElectronHttpExecutor.handleResponse (/1.1.0/index.js:69:2874)
+    at ClientRequest.<anonymous> (/1.1.0/index.js:69:1848)
+    at ClientRequest.emit (node:events:514:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109533)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+    at SimpleURLLoaderWrapper.callbackTrampoline (node:internal/async_hooks:130:17)
+    at newError (/1.1.0/index.js:84:15004)
+    at fetchData (/1.1.0/index.js:117:666)
+    at GitHubProvider.getLatestVersion (/1.1.0/index.js:117:1017)
+    at DebUpdater.getUpdateInfoAndProvider (/1.1.0/index.js:117:18000)
+    at DebUpdater.import_electron_updater2.AppUpdater.getUpdateInfoAndProvider (/1.1.0/index.js:329:97336)
+    at DebUpdater.doCheckForUpdates (/1.1.0/index.js:117:18299)
+    at ElectronUpdater.#getUpdateFromAutoUpdater (/1.1.0/index.js:330:2348)
+    at TaskRoutine.executor (/1.1.0/index.js:330:4904)
+[INFO] [11/20/2024, 9:11:01 AM] [BaseService] Release singleton BaseService.checkUpdate(). Took 2725ms.
+[WARN] [11/20/2024, 9:11:01 AM] [App] Uncaught Rejection
+[ERROR] [11/20/2024, 9:11:01 AM] [App] Error: Cannot find latest-linux.yml in the latest release artifacts (https://github.com/aislxflames/flame-launcher/releases/download/v1.1.0/latest-linux.yml): HttpError: 404 
+"method: GET url: https://github.com/theflames-presence/flame-launcher/releases/download/v1.1.0/latest-linux.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "cache-control": "no-cache",
+  "content-encoding": "gzip",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-type": "text/plain; charset=utf-8",
+  "date": "Wed, 20 Nov 2024 03:41:01 GMT",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "server": "GitHub.com",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "deny",
+  "x-github-request-id": "9D74:3D4647:4DC855:5A183F:673D5A4D",
+  "x-xss-protection": "0"
+}
+    at createHttpError (/1.1.0/index.js:67:2772)
+    at ElectronHttpExecutor.handleResponse (/1.1.0/index.js:69:2874)
+    at ClientRequest.<anonymous> (/1.1.0/index.js:69:1848)
+    at ClientRequest.emit (node:events:514:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109533)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+    at SimpleURLLoaderWrapper.callbackTrampoline (node:internal/async_hooks:130:17)
+    at newError (/1.1.0/index.js:84:15004)
+    at fetchData (/1.1.0/index.js:117:666)
+    at GitHubProvider.getLatestVersion (/1.1.0/index.js:117:1017)
+    at DebUpdater.getUpdateInfoAndProvider (/1.1.0/index.js:117:18000)
+    at DebUpdater.import_electron_updater2.AppUpdater.getUpdateInfoAndProvider (/1.1.0/index.js:329:97336)
+    at DebUpdater.doCheckForUpdates (/1.1.0/index.js:117:18299)
+    at ElectronUpdater.#getUpdateFromAutoUpdater (/1.1.0/index.js:330:2348)
+    at TaskRoutine.executor (/1.1.0/index.js:330:4904)
+[INFO] [11/20/2024, 9:11:16 AM] [Services] Create service ModpackService
+[WARN] [11/20/2024, 9:11:16 AM] [Services] Error during service call ModpackService.watchModpackFolder:
+[ERROR] [11/20/2024, 9:11:16 AM] [ModpackService] Error: ENOENT: no such file or directory, watch '/home/aislx/.config/xmcl/modpacks'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at watch (node:fs:2392:36)
+    at createWatcher (/1.1.0/index.js:181:209392)
+    at watchResourcesDirectory (/1.1.0/index.js:181:210813)
+    at ResourceManager.watch (/1.1.0/index.js:181:218225)
+    at Object.factory (/1.1.0/index.js:243:33855)
+    at new ServiceStateContainer (/1.1.0/index.js:170:36011)
+    at ServiceStateManager.registerOrGet (/1.1.0/index.js:170:39643)
+    at ModpackService.watchModpackFolder (/1.1.0/index.js:243:33751)
+    at handleServiceCall (/1.1.0/index.js:245:16404)
+[INFO] [11/20/2024, 9:11:19 AM] [App] Try to gently close the app
+[WARN] [11/20/2024, 9:11:19 AM] [ResourceContext] select * from "snapshots" where ("domainedPath" like ? or "ino" in ())
+[/home/aislx/.config/xmcl/shaderpacks%] Database already closed
+[WARN] [11/20/2024, 9:11:19 AM] [ResourceContext] select *, (select coalesce(json_group_array(json_object('icon', "agg"."icon", 'sha1', "agg"."sha1")), '[]') from (select "icons"."icon", "icons"."sha1" from "icons" where "icons"."sha1" = "resources"."sha1") as agg) as "icons" from "resources" where "sha1" in ()
+[] Database already closed
+[ERROR] [11/20/2024, 9:11:19 AM] [ServiceStateManager] RevalidateError: Fail to revalidate instance-shaderpacks:///home/aislx/.config/xmcl/instances/Minecraft
+    at /1.1.0/index.js:170:39263
+    at ServiceStateManager.#revalidate (/1.1.0/index.js:170:39206)
+    at ServiceStateManager.revalidate (/1.1.0/index.js:170:39437)
+    at /1.1.0/index.js:170:38598
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:78381)
+Caused by: SQLite3Error: Database already closed
+    at Database2._assertOpen (/1.1.0/index.js:121:222471)
+    at Database2.prepare (/1.1.0/index.js:121:221993)
+    at SqliteConnection.executeQuery (/1.1.0/index.js:244:16718)
+    at SqliteConnection.connection.executeQuery (/1.1.0/index.js:181:156696)
+    at /1.1.0/index.js:181:95198
+    at DefaultConnectionProvider.provideConnection (/1.1.0/index.js:181:153872)
+    at DefaultQueryExecutor.executeQuery (/1.1.0/index.js:181:95122)
+    at SelectQueryBuilder.execute (/1.1.0/index.js:181:106019)
+    at InstanceShaderPacksService.revalidate (/1.1.0/index.js:181:207005)
+    at ServiceStateContainer.<anonymous> (/1.1.0/index.js:245:10722)

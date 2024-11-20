@@ -1,0 +1,5 @@
+2024-11-19 14:57:29.450 [info] Extension host with pid 1000 started
+2024-11-19 14:57:29.450 [info] Skipping acquiring lock for /home/aislx/.config/Code/User/workspaceStorage/68d8e4ce43afffebe43faee8983302a8.
+2024-11-19 14:57:29.954 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-19 14:57:30.042 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-19 14:57:30.048 [info] Extension host with pid 1000 exiting with code 0

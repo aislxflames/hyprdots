@@ -1,0 +1,213 @@
+[INFO] [11/20/2024, 9:10:58 AM] [undici] client:connected https://www.google.com: null -> 142.250.182.132
+[INFO] [11/20/2024, 9:10:58 AM] [undici] client:sendHeaders HEAD https://www.google.com/ 142.250.182.132
+[INFO] [11/20/2024, 9:10:58 AM] [undici] request:bodySent HEAD https://www.google.com/
+[WARN] [11/20/2024, 9:10:58 AM] [undici] client:connectError https:npm.taobao.org: null Error: Hostname/IP does not match certificate's altnames: Host: npm.taobao.org. is not in the cert's altnames: DNS:*.tbcdn.cn, DNS:*.taobao.com, DNS:*.alicdn.com, DNS:*.cmos.greencompute.org, DNS:cmos.greencompute.org, DNS:m.intl.taobao.com, DNS:*.mobgslb.tbcache.com, DNS:*.alikunlun.com, DNS:alikunlun.com, DNS:*.django.t.taobao.com, DNS:alicdn.com, DNS:*.tbcache.com, DNS:*.tmall.com, DNS:*.1688.com, DNS:*.3c.tmall.com, DNS:*.alibaba.com, DNS:*.aliexpress.com, DNS:*.aliqin.tmall.com, DNS:*.alitrip.com, DNS:*.aliyun.com, DNS:*.cainiao.com, DNS:*.cainiao.com.cn, DNS:*.chi.taobao.com, DNS:*.chi.tmall.com, DNS:*.china.taobao.com, DNS:*.dingtalk.com, DNS:*.etao.com, DNS:*.feizhu.cn, DNS:*.feizhu.com, DNS:*.fliggy.com, DNS:*.fliggy.hk, DNS:*.food.tmall.com, DNS:*.jia.taobao.com, DNS:*.jia.tmall.com, DNS:*.ju.taobao.com, DNS:*.juhuasuan.com, DNS:*.lw.aliimg.com, DNS:*.m.1688.com, DNS:*.m.alibaba.com, DNS:*.m.alitrip.com, DNS:*.m.cainiao.com, DNS:*.m.etao.com, DNS:*.m.taobao.com, DNS:*.m.taopiaopiao.com, DNS:*.m.tmall.com, DNS:*.m.tmall.hk, DNS:*.mei.com, DNS:*.taopiaopiao.com, DNS:*.tmall.hk, DNS:*.trip.taobao.com, DNS:*.xiami.com, DNS:1688.com, DNS:alibaba.com, DNS:aliexpress.com, DNS:alitrip.com, DNS:aliyun.com, DNS:cainiao.com, DNS:cainiao.com.cn, DNS:dingtalk.com, DNS:etao.com, DNS:feizhu.cn, DNS:feizhu.com, DNS:fliggy.com, DNS:fliggy.hk, DNS:juhuasuan.com, DNS:mei.com, DNS:taobao.com, DNS:taopiaopiao.com, DNS:tmall.hk, DNS:xiami.com, DNS:tmall.com, DNS:*.cloudvideocdn.taobao.com, DNS:cloudvideocdn.taobao.com, DNS:tbcdn.cn
+    at new NodeError (node:internal/errors:406:5)
+    at Object.checkServerIdentity (node:tls:337:12)
+    at TLSSocket.onConnectSecure (node:_tls_wrap:1669:27)
+    at TLSSocket.emit (node:events:514:28)
+    at TLSSocket._finishInit (node:_tls_wrap:1070:8)
+    at TLSWrap.ssl.onhandshakedone (node:_tls_wrap:856:12)
+    at TLSWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  reason: "Host: npm.taobao.org. is not in the cert's altnames: DNS:*.tbcdn.cn, DNS:*.taobao.com, DNS:*.alicdn.com, DNS:*.cmos.greencompute.org, DNS:cmos.greencompute.org, DNS:m.intl.taobao.com, DNS:*.mobgslb.tbcache.com, DNS:*.alikunlun.com, DNS:alikunlun.com, DNS:*.django.t.taobao.com, DNS:alicdn.com, DNS:*.tbcache.com, DNS:*.tmall.com, DNS:*.1688.com, DNS:*.3c.tmall.com, DNS:*.alibaba.com, DNS:*.aliexpress.com, DNS:*.aliqin.tmall.com, DNS:*.alitrip.com, DNS:*.aliyun.com, DNS:*.cainiao.com, DNS:*.cainiao.com.cn, DNS:*.chi.taobao.com, DNS:*.chi.tmall.com, DNS:*.china.taobao.com, DNS:*.dingtalk.com, DNS:*.etao.com, DNS:*.feizhu.cn, DNS:*.feizhu.com, DNS:*.fliggy.com, DNS:*.fliggy.hk, DNS:*.food.tmall.com, DNS:*.jia.taobao.com, DNS:*.jia.tmall.com, DNS:*.ju.taobao.com, DNS:*.juhuasuan.com, DNS:*.lw.aliimg.com, DNS:*.m.1688.com, DNS:*.m.alibaba.com, DNS:*.m.alitrip.com, DNS:*.m.cainiao.com, DNS:*.m.etao.com, DNS:*.m.taobao.com, DNS:*.m.taopiaopiao.com, DNS:*.m.tmall.com, DNS:*.m.tmall.hk, DNS:*.mei.com, DNS:*.taopiaopiao.com, DNS:*.tmall.hk, DNS:*.trip.taobao.com, DNS:*.xiami.com, DNS:1688.com, DNS:alibaba.com, DNS:aliexpress.com, DNS:alitrip.com, DNS:aliyun.com, DNS:cainiao.com, DNS:cainiao.com.cn, DNS:dingtalk.com, DNS:etao.com, DNS:feizhu.cn, DNS:feizhu.com, DNS:fliggy.com, DNS:fliggy.hk, DNS:juhuasuan.com, DNS:mei.com, DNS:taobao.com, DNS:taopiaopiao.com, DNS:tmall.hk, DNS:xiami.com, DNS:tmall.com, DNS:*.cloudvideocdn.taobao.com, DNS:cloudvideocdn.taobao.com, DNS:tbcdn.cn",
+  host: 'npm.taobao.org',
+  cert: {
+    subject: [Object: null prototype] {
+      C: 'CN',
+      ST: 'ZheJiang',
+      L: 'HangZhou',
+      O: 'Alibaba (China) Technology Co., Ltd.',
+      CN: '*.tbcdn.cn'
+    },
+    issuer: [Object: null prototype] {
+      C: 'BE',
+      O: 'GlobalSign nv-sa',
+      CN: 'GlobalSign Organization Validation CA - SHA256 - G3'
+    },
+    subjectaltname: 'DNS:*.tbcdn.cn, DNS:*.taobao.com, DNS:*.alicdn.com, DNS:*.cmos.greencompute.org, DNS:cmos.greencompute.org, DNS:m.intl.taobao.com, DNS:*.mobgslb.tbcache.com, DNS:*.alikunlun.com, DNS:alikunlun.com, DNS:*.django.t.taobao.com, DNS:alicdn.com, DNS:*.tbcache.com, DNS:*.tmall.com, DNS:*.1688.com, DNS:*.3c.tmall.com, DNS:*.alibaba.com, DNS:*.aliexpress.com, DNS:*.aliqin.tmall.com, DNS:*.alitrip.com, DNS:*.aliyun.com, DNS:*.cainiao.com, DNS:*.cainiao.com.cn, DNS:*.chi.taobao.com, DNS:*.chi.tmall.com, DNS:*.china.taobao.com, DNS:*.dingtalk.com, DNS:*.etao.com, DNS:*.feizhu.cn, DNS:*.feizhu.com, DNS:*.fliggy.com, DNS:*.fliggy.hk, DNS:*.food.tmall.com, DNS:*.jia.taobao.com, DNS:*.jia.tmall.com, DNS:*.ju.taobao.com, DNS:*.juhuasuan.com, DNS:*.lw.aliimg.com, DNS:*.m.1688.com, DNS:*.m.alibaba.com, DNS:*.m.alitrip.com, DNS:*.m.cainiao.com, DNS:*.m.etao.com, DNS:*.m.taobao.com, DNS:*.m.taopiaopiao.com, DNS:*.m.tmall.com, DNS:*.m.tmall.hk, DNS:*.mei.com, DNS:*.taopiaopiao.com, DNS:*.tmall.hk, DNS:*.trip.taobao.com, DNS:*.xiami.com, DNS:1688.com, DNS:alibaba.com, DNS:aliexpress.com, DNS:alitrip.com, DNS:aliyun.com, DNS:cainiao.com, DNS:cainiao.com.cn, DNS:dingtalk.com, DNS:etao.com, DNS:feizhu.cn, DNS:feizhu.com, DNS:fliggy.com, DNS:fliggy.hk, DNS:juhuasuan.com, DNS:mei.com, DNS:taobao.com, DNS:taopiaopiao.com, DNS:tmall.hk, DNS:xiami.com, DNS:tmall.com, DNS:*.cloudvideocdn.taobao.com, DNS:cloudvideocdn.taobao.com, DNS:tbcdn.cn',
+    infoAccess: [Object: null prototype] {
+      'CA Issuers - URI': [Array],
+      'OCSP - URI': [Array]
+    },
+    ca: false,
+    modulus: 'b1fed974a8dbdd9b0c84bd8312f2498247cca50edc8a46c7e706f64563000e9c95873b3c89b86813e25b1ddd8579981ab3e148f1010c688fa3cdf3a5815dcde95ceeea225ec9ea0f0e783649fc2cefae90c64ee1b0ea06e2d1a9cee93bfce4d5a94a312716f0818e2599662dd89c377fb03e2395db3718fa816a95d4441f1d002ac72d1cb46b479685e8dbccabd159a96635dd1183c41c9f04a4a46c467cbf9cbd53146968dcdb1cb6f73de3579df657c8eb2f993dff70c07bca428b6379f1b141fe387b4e69d96bfd1ba69a577a789738d230f4e7de3c3bd54841c9260ed598c1ae41959f8cdfd1c0cb0d9af38f96877f3f5b75f846761f1687cf80c0ef1083',
+    bits: 2048,
+    exponent: '0x10001',
+    pubkey: <Buffer 30 82 01 22 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01 05 00 03 82 01 0f 00 30 82 01 0a 02 82 01 01 00 b1 fe d9 74 a8 db dd 9b 0c 84 bd 83 12 f2 49 82 47 ... 244 more bytes>,
+    valid_from: 'Jun 19 09:06:02 2024 GMT',
+    valid_to: 'Jul 21 09:06:01 2025 GMT',
+    fingerprint: 'C8:28:74:DB:88:66:17:4F:5C:A5:AB:AD:F0:E1:14:74:AC:F8:FE:8F',
+    fingerprint256: '1F:79:7E:2E:52:1A:9D:9B:55:77:E6:DC:04:AA:1A:2B:D5:77:17:ED:E8:ED:AB:C3:F1:24:B4:CD:94:41:73:F8',
+    fingerprint512: '4F:0F:25:D3:0D:97:E1:AE:EF:FC:C6:E5:7E:17:46:21:9D:E1:31:23:A3:81:79:EA:49:1C:33:A9:CE:B0:03:09:45:CA:35:BD:06:B1:C3:33:52:F5:48:92:31:A2:EB:93:02:D5:7F:F8:80:AA:1F:5B:E9:7F:D9:B6:B4:2D:A2:88',
+    ext_key_usage: [ '1.3.6.1.5.5.7.3.1', '1.3.6.1.5.5.7.3.2' ],
+    serialNumber: '1cd8e5cd92ba9d28aff779cc',
+    raw: <Buffer 30 82 0b 30 30 82 0a 18 a0 03 02 01 02 02 0c 1c d8 e5 cd 92 ba 9d 28 af f7 79 cc 30 0d 06 09 2a 86 48 86 f7 0d 01 01 0b 05 00 30 66 31 0b 30 09 06 03 ... 2818 more bytes>,
+    issuerCertificate: {
+      subject: [Object: null prototype],
+      issuer: [Object: null prototype],
+      infoAccess: [Object: null prototype],
+      ca: true,
+      modulus: 'c986a2053eec774d794281f2c546a9c29bf957a948dd3c3be2164783150c368861b3c8b9d52097b6fe0730019e013af95087a04f60cc90f6dd1fa6c755006c54315f029af77f079ad2225305cd9fc7bb7b593b8ab293780d43029276a529f87c9d5c3aa2f85272224591fd9012284d75e4ddaa7958686f2a7e7befd19e7f52dccb1c48e23e4d5c477ab4f1ceffd9602b77d162222da95a0616ee376a51cf8ea5d16e704af0d863606a7255d7f1993886446718e0718ec1406d85da4bdd3173bc32cc6f8e7bb98d4b80dab9c7c624835e32fb87e98b6167a29976dba5aab4e86c419f5f2ab3d57dd792c8274bec1fda056d88738f06b2383d03a2e187863cc6a1',
+      bits: 2048,
+      exponent: '0x10001',
+      pubkey: <Buffer 30 82 01 22 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01 05 00 03 82 01 0f 00 30 82 01 0a 02 82 01 01 00 c9 86 a2 05 3e ec 77 4d 79 42 81 f2 c5 46 a9 c2 9b ... 244 more bytes>,
+      valid_from: 'Sep  4 00:00:00 2015 GMT',
+      valid_to: 'Sep  4 00:00:00 2025 GMT',
+      fingerprint: '20:D1:EB:AB:5A:71:58:7B:91:16:E4:C7:44:15:D1:A8:5B:0D:DD:A5',
+      fingerprint256: '69:9D:54:B7:48:2A:5D:32:93:31:EA:04:15:CC:2E:DC:D6:0F:DA:01:D1:9E:71:D0:54:19:6B:CE:06:77:73:5C',
+      fingerprint512: 'DD:AD:54:FD:13:83:EE:75:FA:16:15:11:8E:CD:AE:AA:0C:72:AC:5D:FC:B1:4B:82:D3:FC:C3:37:75:7E:FE:7B:56:05:51:B9:6A:70:AA:BB:A4:11:3A:CF:B6:84:B2:44:67:03:E5:7D:10:B9:22:3B:A1:82:16:1B:8D:7E:78:B0',
+      ext_key_usage: [Array],
+      serialNumber: '4707b1019a0c57ad39b3e17da9f9',
+      raw: <Buffer 30 82 04 8b 30 82 03 73 a0 03 02 01 02 02 0e 47 07 b1 01 9a 0c 57 ad 39 b3 e1 7d a9 f9 30 0d 06 09 2a 86 48 86 f7 0d 01 01 0b 05 00 30 57 31 0b 30 09 ... 1117 more bytes>,
+      issuerCertificate: [Object]
+    }
+  },
+  code: 'ERR_TLS_CERT_ALTNAME_INVALID'
+}
+[WARN] [11/20/2024, 9:10:58 AM] [undici] request:error HEAD https://npm.taobao.org/: Error: Hostname/IP does not match certificate's altnames: Host: npm.taobao.org. is not in the cert's altnames: DNS:*.tbcdn.cn, DNS:*.taobao.com, DNS:*.alicdn.com, DNS:*.cmos.greencompute.org, DNS:cmos.greencompute.org, DNS:m.intl.taobao.com, DNS:*.mobgslb.tbcache.com, DNS:*.alikunlun.com, DNS:alikunlun.com, DNS:*.django.t.taobao.com, DNS:alicdn.com, DNS:*.tbcache.com, DNS:*.tmall.com, DNS:*.1688.com, DNS:*.3c.tmall.com, DNS:*.alibaba.com, DNS:*.aliexpress.com, DNS:*.aliqin.tmall.com, DNS:*.alitrip.com, DNS:*.aliyun.com, DNS:*.cainiao.com, DNS:*.cainiao.com.cn, DNS:*.chi.taobao.com, DNS:*.chi.tmall.com, DNS:*.china.taobao.com, DNS:*.dingtalk.com, DNS:*.etao.com, DNS:*.feizhu.cn, DNS:*.feizhu.com, DNS:*.fliggy.com, DNS:*.fliggy.hk, DNS:*.food.tmall.com, DNS:*.jia.taobao.com, DNS:*.jia.tmall.com, DNS:*.ju.taobao.com, DNS:*.juhuasuan.com, DNS:*.lw.aliimg.com, DNS:*.m.1688.com, DNS:*.m.alibaba.com, DNS:*.m.alitrip.com, DNS:*.m.cainiao.com, DNS:*.m.etao.com, DNS:*.m.taobao.com, DNS:*.m.taopiaopiao.com, DNS:*.m.tmall.com, DNS:*.m.tmall.hk, DNS:*.mei.com, DNS:*.taopiaopiao.com, DNS:*.tmall.hk, DNS:*.trip.taobao.com, DNS:*.xiami.com, DNS:1688.com, DNS:alibaba.com, DNS:aliexpress.com, DNS:alitrip.com, DNS:aliyun.com, DNS:cainiao.com, DNS:cainiao.com.cn, DNS:dingtalk.com, DNS:etao.com, DNS:feizhu.cn, DNS:feizhu.com, DNS:fliggy.com, DNS:fliggy.hk, DNS:juhuasuan.com, DNS:mei.com, DNS:taobao.com, DNS:taopiaopiao.com, DNS:tmall.hk, DNS:xiami.com, DNS:tmall.com, DNS:*.cloudvideocdn.taobao.com, DNS:cloudvideocdn.taobao.com, DNS:tbcdn.cn
+    at new NodeError (node:internal/errors:406:5)
+    at Object.checkServerIdentity (node:tls:337:12)
+    at TLSSocket.onConnectSecure (node:_tls_wrap:1669:27)
+    at TLSSocket.emit (node:events:514:28)
+    at TLSSocket._finishInit (node:_tls_wrap:1070:8)
+    at TLSWrap.ssl.onhandshakedone (node:_tls_wrap:856:12)
+    at TLSWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+  reason: "Host: npm.taobao.org. is not in the cert's altnames: DNS:*.tbcdn.cn, DNS:*.taobao.com, DNS:*.alicdn.com, DNS:*.cmos.greencompute.org, DNS:cmos.greencompute.org, DNS:m.intl.taobao.com, DNS:*.mobgslb.tbcache.com, DNS:*.alikunlun.com, DNS:alikunlun.com, DNS:*.django.t.taobao.com, DNS:alicdn.com, DNS:*.tbcache.com, DNS:*.tmall.com, DNS:*.1688.com, DNS:*.3c.tmall.com, DNS:*.alibaba.com, DNS:*.aliexpress.com, DNS:*.aliqin.tmall.com, DNS:*.alitrip.com, DNS:*.aliyun.com, DNS:*.cainiao.com, DNS:*.cainiao.com.cn, DNS:*.chi.taobao.com, DNS:*.chi.tmall.com, DNS:*.china.taobao.com, DNS:*.dingtalk.com, DNS:*.etao.com, DNS:*.feizhu.cn, DNS:*.feizhu.com, DNS:*.fliggy.com, DNS:*.fliggy.hk, DNS:*.food.tmall.com, DNS:*.jia.taobao.com, DNS:*.jia.tmall.com, DNS:*.ju.taobao.com, DNS:*.juhuasuan.com, DNS:*.lw.aliimg.com, DNS:*.m.1688.com, DNS:*.m.alibaba.com, DNS:*.m.alitrip.com, DNS:*.m.cainiao.com, DNS:*.m.etao.com, DNS:*.m.taobao.com, DNS:*.m.taopiaopiao.com, DNS:*.m.tmall.com, DNS:*.m.tmall.hk, DNS:*.mei.com, DNS:*.taopiaopiao.com, DNS:*.tmall.hk, DNS:*.trip.taobao.com, DNS:*.xiami.com, DNS:1688.com, DNS:alibaba.com, DNS:aliexpress.com, DNS:alitrip.com, DNS:aliyun.com, DNS:cainiao.com, DNS:cainiao.com.cn, DNS:dingtalk.com, DNS:etao.com, DNS:feizhu.cn, DNS:feizhu.com, DNS:fliggy.com, DNS:fliggy.hk, DNS:juhuasuan.com, DNS:mei.com, DNS:taobao.com, DNS:taopiaopiao.com, DNS:tmall.hk, DNS:xiami.com, DNS:tmall.com, DNS:*.cloudvideocdn.taobao.com, DNS:cloudvideocdn.taobao.com, DNS:tbcdn.cn",
+  host: 'npm.taobao.org',
+  cert: {
+    subject: [Object: null prototype] {
+      C: 'CN',
+      ST: 'ZheJiang',
+      L: 'HangZhou',
+      O: 'Alibaba (China) Technology Co., Ltd.',
+      CN: '*.tbcdn.cn'
+    },
+    issuer: [Object: null prototype] {
+      C: 'BE',
+      O: 'GlobalSign nv-sa',
+      CN: 'GlobalSign Organization Validation CA - SHA256 - G3'
+    },
+    subjectaltname: 'DNS:*.tbcdn.cn, DNS:*.taobao.com, DNS:*.alicdn.com, DNS:*.cmos.greencompute.org, DNS:cmos.greencompute.org, DNS:m.intl.taobao.com, DNS:*.mobgslb.tbcache.com, DNS:*.alikunlun.com, DNS:alikunlun.com, DNS:*.django.t.taobao.com, DNS:alicdn.com, DNS:*.tbcache.com, DNS:*.tmall.com, DNS:*.1688.com, DNS:*.3c.tmall.com, DNS:*.alibaba.com, DNS:*.aliexpress.com, DNS:*.aliqin.tmall.com, DNS:*.alitrip.com, DNS:*.aliyun.com, DNS:*.cainiao.com, DNS:*.cainiao.com.cn, DNS:*.chi.taobao.com, DNS:*.chi.tmall.com, DNS:*.china.taobao.com, DNS:*.dingtalk.com, DNS:*.etao.com, DNS:*.feizhu.cn, DNS:*.feizhu.com, DNS:*.fliggy.com, DNS:*.fliggy.hk, DNS:*.food.tmall.com, DNS:*.jia.taobao.com, DNS:*.jia.tmall.com, DNS:*.ju.taobao.com, DNS:*.juhuasuan.com, DNS:*.lw.aliimg.com, DNS:*.m.1688.com, DNS:*.m.alibaba.com, DNS:*.m.alitrip.com, DNS:*.m.cainiao.com, DNS:*.m.etao.com, DNS:*.m.taobao.com, DNS:*.m.taopiaopiao.com, DNS:*.m.tmall.com, DNS:*.m.tmall.hk, DNS:*.mei.com, DNS:*.taopiaopiao.com, DNS:*.tmall.hk, DNS:*.trip.taobao.com, DNS:*.xiami.com, DNS:1688.com, DNS:alibaba.com, DNS:aliexpress.com, DNS:alitrip.com, DNS:aliyun.com, DNS:cainiao.com, DNS:cainiao.com.cn, DNS:dingtalk.com, DNS:etao.com, DNS:feizhu.cn, DNS:feizhu.com, DNS:fliggy.com, DNS:fliggy.hk, DNS:juhuasuan.com, DNS:mei.com, DNS:taobao.com, DNS:taopiaopiao.com, DNS:tmall.hk, DNS:xiami.com, DNS:tmall.com, DNS:*.cloudvideocdn.taobao.com, DNS:cloudvideocdn.taobao.com, DNS:tbcdn.cn',
+    infoAccess: [Object: null prototype] {
+      'CA Issuers - URI': [Array],
+      'OCSP - URI': [Array]
+    },
+    ca: false,
+    modulus: 'b1fed974a8dbdd9b0c84bd8312f2498247cca50edc8a46c7e706f64563000e9c95873b3c89b86813e25b1ddd8579981ab3e148f1010c688fa3cdf3a5815dcde95ceeea225ec9ea0f0e783649fc2cefae90c64ee1b0ea06e2d1a9cee93bfce4d5a94a312716f0818e2599662dd89c377fb03e2395db3718fa816a95d4441f1d002ac72d1cb46b479685e8dbccabd159a96635dd1183c41c9f04a4a46c467cbf9cbd53146968dcdb1cb6f73de3579df657c8eb2f993dff70c07bca428b6379f1b141fe387b4e69d96bfd1ba69a577a789738d230f4e7de3c3bd54841c9260ed598c1ae41959f8cdfd1c0cb0d9af38f96877f3f5b75f846761f1687cf80c0ef1083',
+    bits: 2048,
+    exponent: '0x10001',
+    pubkey: <Buffer 30 82 01 22 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01 05 00 03 82 01 0f 00 30 82 01 0a 02 82 01 01 00 b1 fe d9 74 a8 db dd 9b 0c 84 bd 83 12 f2 49 82 47 ... 244 more bytes>,
+    valid_from: 'Jun 19 09:06:02 2024 GMT',
+    valid_to: 'Jul 21 09:06:01 2025 GMT',
+    fingerprint: 'C8:28:74:DB:88:66:17:4F:5C:A5:AB:AD:F0:E1:14:74:AC:F8:FE:8F',
+    fingerprint256: '1F:79:7E:2E:52:1A:9D:9B:55:77:E6:DC:04:AA:1A:2B:D5:77:17:ED:E8:ED:AB:C3:F1:24:B4:CD:94:41:73:F8',
+    fingerprint512: '4F:0F:25:D3:0D:97:E1:AE:EF:FC:C6:E5:7E:17:46:21:9D:E1:31:23:A3:81:79:EA:49:1C:33:A9:CE:B0:03:09:45:CA:35:BD:06:B1:C3:33:52:F5:48:92:31:A2:EB:93:02:D5:7F:F8:80:AA:1F:5B:E9:7F:D9:B6:B4:2D:A2:88',
+    ext_key_usage: [ '1.3.6.1.5.5.7.3.1', '1.3.6.1.5.5.7.3.2' ],
+    serialNumber: '1cd8e5cd92ba9d28aff779cc',
+    raw: <Buffer 30 82 0b 30 30 82 0a 18 a0 03 02 01 02 02 0c 1c d8 e5 cd 92 ba 9d 28 af f7 79 cc 30 0d 06 09 2a 86 48 86 f7 0d 01 01 0b 05 00 30 66 31 0b 30 09 06 03 ... 2818 more bytes>,
+    issuerCertificate: {
+      subject: [Object: null prototype],
+      issuer: [Object: null prototype],
+      infoAccess: [Object: null prototype],
+      ca: true,
+      modulus: 'c986a2053eec774d794281f2c546a9c29bf957a948dd3c3be2164783150c368861b3c8b9d52097b6fe0730019e013af95087a04f60cc90f6dd1fa6c755006c54315f029af77f079ad2225305cd9fc7bb7b593b8ab293780d43029276a529f87c9d5c3aa2f85272224591fd9012284d75e4ddaa7958686f2a7e7befd19e7f52dccb1c48e23e4d5c477ab4f1ceffd9602b77d162222da95a0616ee376a51cf8ea5d16e704af0d863606a7255d7f1993886446718e0718ec1406d85da4bdd3173bc32cc6f8e7bb98d4b80dab9c7c624835e32fb87e98b6167a29976dba5aab4e86c419f5f2ab3d57dd792c8274bec1fda056d88738f06b2383d03a2e187863cc6a1',
+      bits: 2048,
+      exponent: '0x10001',
+      pubkey: <Buffer 30 82 01 22 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01 05 00 03 82 01 0f 00 30 82 01 0a 02 82 01 01 00 c9 86 a2 05 3e ec 77 4d 79 42 81 f2 c5 46 a9 c2 9b ... 244 more bytes>,
+      valid_from: 'Sep  4 00:00:00 2015 GMT',
+      valid_to: 'Sep  4 00:00:00 2025 GMT',
+      fingerprint: '20:D1:EB:AB:5A:71:58:7B:91:16:E4:C7:44:15:D1:A8:5B:0D:DD:A5',
+      fingerprint256: '69:9D:54:B7:48:2A:5D:32:93:31:EA:04:15:CC:2E:DC:D6:0F:DA:01:D1:9E:71:D0:54:19:6B:CE:06:77:73:5C',
+      fingerprint512: 'DD:AD:54:FD:13:83:EE:75:FA:16:15:11:8E:CD:AE:AA:0C:72:AC:5D:FC:B1:4B:82:D3:FC:C3:37:75:7E:FE:7B:56:05:51:B9:6A:70:AA:BB:A4:11:3A:CF:B6:84:B2:44:67:03:E5:7D:10:B9:22:3B:A1:82:16:1B:8D:7E:78:B0',
+      ext_key_usage: [Array],
+      serialNumber: '4707b1019a0c57ad39b3e17da9f9',
+      raw: <Buffer 30 82 04 8b 30 82 03 73 a0 03 02 01 02 02 0e 47 07 b1 01 9a 0c 57 ad 39 b3 e1 7d a9 f9 30 0d 06 09 2a 86 48 86 f7 0d 01 01 0b 05 00 30 57 31 0b 30 09 ... 1117 more bytes>,
+      issuerCertificate: [Object]
+    }
+  },
+  code: 'ERR_TLS_CERT_ALTNAME_INVALID'
+}
+[INFO] [11/20/2024, 9:10:58 AM] [undici] request:headers HEAD https://www.google.com/ 200 Content-Type,text/html; charset=ISO-8859-1,Content-Security-Policy-Report-Only,object-src 'none';base-uri 'self';script-src 'nonce-4e9HD4Tan7bQ9ye8IGmm8Q' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp,Accept-CH,Sec-CH-Prefers-Color-Scheme,P3P,CP="This is not a P3P policy! See g.co/p3phelp for more info.",Date,Wed, 20 Nov 2024 03:40:58 GMT,Server,gws,X-XSS-Protection,0,X-Frame-Options,SAMEORIGIN,Transfer-Encoding,chunked,Expires,Wed, 20 Nov 2024 03:40:58 GMT,Cache-Control,private,Set-Cookie,AEC=AZ6Zc-UOhwjC7J2rh1iFrPHMCYjS7pOjiK6z7DI8DjdjCqBuTSADF1cI_g; expires=Mon, 19-May-2025 03:40:58 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax,Set-Cookie,NID=519=YNW7l-_4TMi_gPW5ITXmaqm2MbNnwnkoRfumDP9ZuRItEYjn-2dk7WMpwMTGjZHbgyRTOfu3STYtXr2xzUI13OrMplZgJnshfp1swUFwfCajFiHAaBI-ManlSZuPGcKKDSjO81js8Tu1LZ4w5UyOu8-ARot02FQJh8x05E5bQBaZOZ21wqnQDXnjhZOQx3XQ; expires=Thu, 22-May-2025 03:40:58 GMT; path=/; domain=.google.com; HttpOnly,Alt-Svc,h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,Connection,close
+[INFO] [11/20/2024, 9:10:58 AM] [undici] request:trailers HEAD https://www.google.com/ 
+[INFO] [11/20/2024, 9:10:59 AM] [undici] client:connected https://www.yandex.com: null -> 77.88.55.88
+[INFO] [11/20/2024, 9:10:59 AM] [undici] client:sendHeaders HEAD https://www.yandex.com/ 77.88.55.88
+[INFO] [11/20/2024, 9:10:59 AM] [undici] request:bodySent HEAD https://www.yandex.com/
+[INFO] [11/20/2024, 9:10:59 AM] [undici] request:headers HEAD https://www.yandex.com/ 302 Accept-CH,Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width,Cache-Control,max-age=1209600,private,Connection,Close,Date,Wed, 20 Nov 2024 03:40:59 GMT,Location,https://yandex.com,NEL,{"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1},P3P,policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI",Portal,Home,Report-To,{ "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]},X-Content-Type-Options,nosniff,X-Yandex-Req-Id,1732074059163888-15318466123886604492-balancer-l7leveler-kubr-yp-sas-172-BAL,set-cookie,is_gdpr=0; Path=/; Domain=.yandex.com; Expires=Fri, 20 Nov 2026 03:40:59 GMT,set-cookie,is_gdpr_b=COXEFxC+nwIoAg==; Path=/; Domain=.yandex.com; Expires=Fri, 20 Nov 2026 03:40:59 GMT,set-cookie,_yasc=4sjX+9XYswGC5iXz4nEuFZFTT8EKDcc8RfF0+iDLFRZmDJilUrlpXWpIfwU1bn793g==; domain=.yandex.com; path=/; expires=Sat, 18 Nov 2034 03:40:59 GMT; secure,set-cookie,i=EztAWCn7rdGrUB+TyQv9kZwbURQkGQr4L11AaydugmJBhMh3ie6uVRlp5Pw+viTq5RudhoZOvaYm3cP5ICAlmFfyb38=; Expires=Fri, 20-Nov-2026 03:40:59 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly,set-cookie,yandexuid=4866044921732074059; Expires=Fri, 20-Nov-2026 03:40:59 GMT; Domain=.yandex.com; Path=/; Secure,set-cookie,yashr=4562015441732074059; Path=/; Domain=.yandex.com; Expires=Thu, 20 Nov 2025 03:40:59 GMT; Secure; HttpOnly,set-cookie,receive-cookie-deprecation=1; Path=/; Domain=.yandex.com; Expires=Thu, 20 Nov 2025 03:40:59 GMT; SameSite=None; Secure; HttpOnly; Partitioned
+[INFO] [11/20/2024, 9:10:59 AM] [undici] request:trailers HEAD https://www.yandex.com/ 
+[INFO] [11/20/2024, 9:10:59 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:10:59 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,421efb88-901e-004c-3dfe-3ac2c8000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:00 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:create GET http://ely.by/minecraft/skins/30f00fc89f3a3580293fe02ed9113934.png
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:beforeConnect http:ely.by: null
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:connected http://ely.by: null -> 195.201.80.5
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:sendHeaders GET http://ely.by/minecraft/skins/30f00fc89f3a3580293fe02ed9113934.png 195.201.80.5
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:bodySent GET http://ely.by/minecraft/skins/30f00fc89f3a3580293fe02ed9113934.png
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:00 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:00 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:headers GET http://ely.by/minecraft/skins/30f00fc89f3a3580293fe02ed9113934.png 404 server,nginx,date,Wed, 20 Nov 2024 03:41:00 GMT,content-type,text/html; charset=utf-8,content-length,146
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:trailers GET http://ely.by/minecraft/skins/30f00fc89f3a3580293fe02ed9113934.png 
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,509823c9-601e-003a-31fe-3a4880000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:00 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:01 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,bc518e43-e01e-001b-4cfe-3a6cfb000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:00 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:01 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:01 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:01 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:01 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:01 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,959d9978-e01e-0046-08fe-3a667f000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:00 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,a01fc0c5-201e-0076-43fe-3ad8b0000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:01 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:01 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:01 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:01 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:02 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:02 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:02 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:02 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:02 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:02 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:02 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,69811478-c01e-0023-75fe-3ac83b000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:01 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:02 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:02 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,4e4487bc-701e-006b-7cfe-3ad50c000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:02 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:02 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:02 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:02 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:02 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:02 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:03 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:03 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:03 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:03 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:03 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:03 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:03 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,48d908aa-201e-002b-54fe-3ad234000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:03 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:03 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:03 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,5416e058-c01e-0041-26fe-3a0a1c000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:03 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:03 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 
+[INFO] [11/20/2024, 9:11:03 AM] [undici] request:create HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:03 AM] [undici] client:beforeConnect https:xmcl.blob.core.windows.net: null
+[INFO] [11/20/2024, 9:11:03 AM] [undici] client:connected https://xmcl.blob.core.windows.net: null -> 20.60.131.193
+[INFO] [11/20/2024, 9:11:03 AM] [undici] client:sendHeaders HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 20.60.131.193
+[INFO] [11/20/2024, 9:11:03 AM] [undici] request:bodySent HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256
+[INFO] [11/20/2024, 9:11:04 AM] [undici] request:headers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 200 Content-Length,64,Content-Type,application/octet-stream,Content-MD5,B9FhoyIDtDX9EdNymfAzgw==,Last-Modified,Fri, 01 Nov 2024 10:34:53 GMT,ETag,0x8DCFA60D246DEDA,Vary,Origin,Server,Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0,x-ms-request-id,094838c0-601e-0083-7bfe-3a4c9a000000,x-ms-version,2009-09-19,x-ms-lease-status,unlocked,x-ms-blob-type,BlockBlob,Date,Wed, 20 Nov 2024 03:41:03 GMT,Connection,close
+[INFO] [11/20/2024, 9:11:04 AM] [undici] request:trailers HEAD https://xmcl.blob.core.windows.net/project-mapping/en.sqlite.sha256 

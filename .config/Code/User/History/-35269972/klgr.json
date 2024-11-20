@@ -1,0 +1,6 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.colorTheme": "Wal",
+    "workbench.iconTheme": "eq-material-theme-icons-darker"
+}

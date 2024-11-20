@@ -1,0 +1,5 @@
+[Added Associations]
+application/toml=nvim.desktop;
+
+[Default Applications]
+x-scheme-handler/xmcl=fmcl.desktop

@@ -1,0 +1,41 @@
+2024-11-19 14:51:40.446 [info] Started local extension host with pid 1006.
+2024-11-19 14:51:42.150 [info] Settings Sync: Updating due to initialize
+2024-11-19 14:51:42.150 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:42.150 [info] Settings Sync: Authentication providers updated []
+2024-11-19 14:51:42.531 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:42.533 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-19 14:51:42.533 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:42.534 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-19 14:51:42.534 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:42.534 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-19 14:51:42.534 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:42.534 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-19 14:51:42.534 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-19 14:51:42.535 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:42.535 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-19 14:51:42.535 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-19 14:51:42.535 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:42.535 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-19 14:51:44.076 [info] [perf] Render performance baseline is 25ms
+2024-11-19 14:51:45.070 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:45.072 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:45.076 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:45.077 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:45.079 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:45.080 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:45.080 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:45.080 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:49.438 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:49.438 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-19 14:51:55.396 [info] Started local extension host with pid 1227.
+2024-11-19 14:51:56.443 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:56.444 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:56.448 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:56.448 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:56.450 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:56.451 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:56.452 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:56.452 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-19 14:51:56.763 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-19 14:51:56.764 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-19 14:51:56.806 [error] No registered selector for ID: ms-vscode.npm-command

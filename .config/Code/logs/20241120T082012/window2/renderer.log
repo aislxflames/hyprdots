@@ -1,0 +1,49 @@
+2024-11-20 08:54:15.248 [info] Started local extension host with pid 10476.
+2024-11-20 08:54:16.700 [info] Settings Sync: Updating due to initialize
+2024-11-20 08:54:16.701 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-20 08:54:16.701 [info] Settings Sync: Authentication providers updated []
+2024-11-20 08:54:17.185 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-20 08:54:17.186 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-20 08:54:17.186 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-20 08:54:17.186 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-20 08:54:17.186 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-20 08:54:17.187 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-20 08:54:17.187 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-20 08:54:17.187 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-20 08:54:17.215 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-20 08:54:17.216 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-20 08:54:17.217 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-20 08:54:17.218 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-20 08:54:17.218 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-20 08:54:17.219 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-20 08:54:17.568 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-20 08:54:17.570 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-20 08:54:17.571 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-20 08:54:17.571 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-20 08:54:17.572 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-20 08:54:17.573 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-20 08:54:17.573 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-20 08:54:17.573 [error] [Extension Host] Failed to load message bundle for file /home/aislx/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.6/out/extension
+2024-11-20 08:54:18.152 [info] [perf] Render performance baseline is 78ms
+2024-11-20 08:54:18.269 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-20 08:54:18.269 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-20 08:54:51.896 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:58:20.188 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:58:20.251 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:58:21.911 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:58:22.217 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:58:39.886 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:58:42.389 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:59:44.435 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:59:47.781 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:59:48.019 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 08:59:48.127 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:00:38.996 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:00:52.027 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:03:04.120 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:04:02.203 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:04:02.241 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:04:20.082 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:04:20.202 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:06:26.414 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2024-11-20 09:06:26.493 [info] Unable to reload {0}: {1} file:///home/aislx/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json

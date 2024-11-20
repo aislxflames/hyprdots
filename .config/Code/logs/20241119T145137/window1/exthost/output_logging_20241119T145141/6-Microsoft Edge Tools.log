@@ -1,0 +1,4 @@
+Error loading "hint" package from "/run/media/drive2/Developing/flame-launcher"
+Trying to load shared version
+Found hint at /home/aislx/.config/Code/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/hint/dist/src/lib/index.js
+[Error - 2:51:57 PM] Stopping server timed out
