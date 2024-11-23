@@ -108,18 +108,10 @@ done
 
 echo "All packages installed successfully!"
 
-echo "Installing gtk themes"
-if [ ! -d /opt/Graphite-gtk-theme ]; then
-  sudo git clone https://github.com/vinceliuice/Graphite-gtk-theme.git /opt/Graphite-gtk-theme
-else
-  echo "/opt/Graphite-gtk-theme already exists, skipping clone."
-fi
-cd /opt/Graphite-gtk-theme 
-sudo ./install.sh  -d ~/.themes/ -t -c dark -s standard -l --tweaks darker rimless
-cd ~
+
 # Copy .config and Wallpapers directories to the home directory
 USER_HOME="/home/$(logname)"
-SOURCE_CONFIG="./.config/"
+SOURCE_CONFIG="./.config"
 SOURCE_WALLPAPERS="./Wallpapers"
 
 echo "Copying .config and Wallpapers to $USER_HOME..."
@@ -151,7 +143,7 @@ if [ ! -d "$USER_HOME/.config" ]; then
 fi
 
 if [ -d "$USER_HOME/.config" ]; then
-    rsync -av --ignore-existing "$SOURCE_CONFIG/" "$USER_HOME/.config"
+    rsync -av --ignore-existing "$SOURCE_CONFIG/" "$USER_HOME/.config/"
     echo "Synced .config to $USER_HOME"
 else
     echo "Warning: $SOURCE_CONFIG directory does not exist. Skipping .config copy."
@@ -162,13 +154,23 @@ if [ ! -d "$USER_HOME/Wallpapers" ]; then
     echo "Created Wallpapers directory at $USER_HOME"
 fi
 
-if [ -d "$USER_HOME/Wallpapers" ]; then
-    rsync -av --ignore-existing "$SOURCE_WALLPAPERS/" "$USER_HOME/Wallpapers"
+if [ -d "$USER_HOME/Wallpapers"  ]; then
+    rsync -av --ignore-existing "$SOURCE_WALLPAPERS/" "$USER_HOME/Wallpapers/"
     echo "Synced Wallpapers to $USER_HOME"
 else
     echo "Warning: $SOURCE_WALLPAPERS directory does not exist. Skipping Wallpapers copy."
 fi
 echo "Setup complete! Enjoy your FlamEs Hyprdots!"
+
+echo "Installing gtk themes"
+if [ ! -d /opt/Graphite-gtk-theme ]; then
+  sudo git clone https://github.com/vinceliuice/Graphite-gtk-theme.git /opt/Graphite-gtk-theme
+else
+  echo "/opt/Graphite-gtk-theme already exists, skipping clone."
+fi
+cd /opt/Graphite-gtk-theme 
+sudo ./install.sh  -d ~/.themes/ -t -c dark -s standard -l --tweaks darker rimless
+cd ~
 #Start sddm
 systemctl enable sddm
 # Ask the user if they want to reboot the system
