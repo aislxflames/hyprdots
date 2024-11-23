@@ -1,6 +1,0 @@
-[2024-11-19 13:40:26.106] [         12ms] [/home/aislx] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • FAILED
-
-Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --abbrev-ref --symbolic-full-name @ @{u} --
-fatal: bad revision '@'
-
-

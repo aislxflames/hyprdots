@@ -1,7 +1,0 @@
-{
-    "window.menuBarVisibility": "toggle",
-    "editor.multiCursorModifier": "ctrlCmd",
-    "workbench.colorTheme": "SynthWave '84",
-    "workbench.iconTheme": "eq-material-theme-icons-darker",
-    "editor.minimap.enabled": false
-}

@@ -1,4 +1,0 @@
-GitLens v16.0.2 activating in Visual Studio Code (1.95.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (d01e3abaf604be9cf4fe313af77637555c15ee32b73a4111c1c534bab9a1a280|37c47645-26f6-40ed-ba36-186fd5530fc31732023557720)
-To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-[2024-11-19 13:40:26.106] [GIT          ] [/home/aislx] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • bad revision '@' [12ms]
-

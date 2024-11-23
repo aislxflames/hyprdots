@@ -1,5 +1,0 @@
-Error loading "hint" package from "/run/media/drive2/Developing/flame-launcher"
-Trying to load shared version
-Found hint at /home/aislx/.config/Code/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/hint/dist/src/lib/index.js
-Checking if shared version of "hint" needs updated
-Last check for "hint" updates was less than 24 hours ago, skipping

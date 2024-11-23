@@ -18,51 +18,15 @@ echo "==================================================="
 echo
 
 # List of packages to install
-packages=(
-    hyprland
-    waybar
-    waypaper
-    thunar
-    firefox
-    thunar
-    neofetch
-    cava
-    neo-matrix
-    tty-clock
-    noto-fonts
-    noto-fonts-cjk
-    noto-fonts-emoji
-    rofi-git
-    drun
-    alacritty
-    vim
-    nano
-    pywal
-    zsh
-    ttf-meslo-nerd-font-powerlevel10k
-    gtk
-    gnome-themes-standard
-    nautilus
-    sassc
-    rsync
-    nwg-look
-    zsh-autosuggestions
-    zsh-syntax-highlighting
-    pokemon-colorscripts-git 
-    sddm
-)
+
 
 # Function to install yay
 install_yay() {
-    echo "Installing yay..."
-    if [ "$(id -u)" != "0" ]; then
-        echo "This section of the script must be run as root to clone yay into /opt."
-        exit 1
-    fi
+     echo "Installing yay.."
 
     # Install dependencies for building AUR packages
     echo "Installing required dependencies..."
-    pacman -S --needed --noconfirm git base-devel
+    sudo pacman -S --needed --noconfirm git base-devel
 
     # Clone the yay repository into /opt if it doesn't already exist
     if [ -d /opt/yay ]; then
@@ -99,21 +63,98 @@ echo "Updating the system..."
 yay -Syu --noconfirm
 
 # Install packages
-echo "Installing packages..."
-for pkg in "${packages[@]}"; do
-    echo "Installing $pkg..."
-    yay -S --needed --noconfirm "$pkg"
-done
-echo "All packages installed successfully!"
 
+#!/bin/bash
+    USER_HOME="/home/$(logname)"
+    SOURCE_CONFIG="./.config"
+    SOURCE_WALLPAPERS="./Wallpapers"
+# Ask if the user wants to proceed with the setup
+read -p "Do you want to proceed with the full setup (install packages, copy config files, and more)? (y/n): " response
 
-# Copy .config and Wallpapers directories to the home directory
-USER_HOME="/home/$(logname)"
-SOURCE_CONFIG="./.config"
-SOURCE_WALLPAPERS="./Wallpapers"
+if [[ "$response" =~ ^[Yy]$ ]]; then
 
-echo "Copying .config and Wallpapers to $USER_HOME..."
+    # List of packages to install
+    packages=(
+    hyprland
+    waybar
+    waypaper
+    thunar
+    firefox
+    thunar
+    pavucontrol
+    neofetch
+    cava
+    neo-matrix
+    tty-clock
+    cliphist
+    noto-fonts
+    noto-fonts-cjk
+    noto-fonts-emoji
+    rofi-git
+    drun
+    alacritty
+    vim
+    nano
+    pywal
+    zsh
+    ttf-meslo-nerd-font-powerlevel10k
+    gtk
+    gnome-themes-standard
+    nautilus
+    sassc
+    rsync
+    nwg-look
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+    pokemon-colorscripts-git
+    swww
+    hyprpaper
+    sddm
+)  # Replace with your actual packages
+
+    # Install packages
+    echo "Installing packages..."
+    for pkg in "${packages[@]}"; do
+        echo "Installing $pkg..."
+        yay -S --needed --noconfirm "$pkg"
+    done
+    echo "All packages installed successfully!"
+
+    # Ask if the user wants to install additional packages (sddm-theme-sugar-candy-git, visual-studio-bin)
+    read -p "Do you want to install the additional packages (sddm-theme-sugar-candy-git, visual-studio-bin)? (y/n): " response
+    if [[ "$response" =~ ^[Yy]$ ]]; then
+        yay -S sddm-theme-sugar-candy-git
+        yay -S visual-studio-bin
+        echo "Additional packages installed: sddm-theme-sugar-candy-git and visual-studio-bin."
+    else
+        echo "No additional packages installed."
+    fi
+
+    # Copy .config and Wallpapers directories to the home directory
+
+    echo "Copying .config and Wallpapers to $USER_HOME..."
+    cp -r "$SOURCE_CONFIG" "$USER_HOME/"
+    cp -r "$SOURCE_WALLPAPERS" "$USER_HOME/"
+    echo ".config and Wallpapers copied successfully!"
+
+    # Ask if the user wants to install Oh My Zsh
+    read -p "Do you want to install Oh My Zsh? (y/n): " response
+    if [[ "$response" =~ ^[Yy]$ ]]; then
+        echo "Installing Oh My Zsh..."
+        sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+        echo "Oh My Zsh installed."
+    else
+        echo "Skipping Oh My Zsh installation."
+    fi
+
+    echo "Setup complete!"
+
+else
+    echo "Setup was cancelled."
+fi
+
 #Installing Oh my zsh
+
 echo "Installing oh my zsh"
 if [ -d "$HOME/.oh-my-zsh" ]; then
     echo "~/.oh-my-zsh already exists. Skipping installation."
@@ -130,6 +171,25 @@ if ! grep -q "pokemon-colorscripts -r" ~/.zshrc; then
 else
     echo "pokemon-colorscripts -r already exists in ~/.zshrc. Skipping."
 fi
+# Check if ~/powerlevel10k exists and remove it if it does
+if [ -d "$USER_HOME/powerlevel10k" ]; then
+    echo "Removing ~/powerlevel10k..."
+    sudo rm -r ~/powerlevel10k
+else
+    echo "~/powerlevel10k does not exist, skipping removal."
+fi
+
+# Check if ~/oh-my-zsh/custom/themes/powerlevel10k exists and remove it if it does
+if [ -d "$USER_HOME/.oh-my-zsh/custom/themes/powerlevel10k" ]; then
+    echo "Removing ~/oh-my-zsh/custom/themes/powerlevel10k..."
+    sudo rm -r ~/.oh-my-zsh/custom/themes/powerlevel10k
+else
+    echo "~/.oh-my-zsh/custom/themes/powerlevel10k does not exist, skipping removal."
+fi
+
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 sed -i 's|ZSH_THEME="robbyrussell"|ZSH_THEME="powerlevel10k/powerlevel10k"|g' ~/.zshrc
 
 
@@ -170,7 +230,25 @@ cd /opt/Graphite-gtk-theme
 sudo ./install.sh  -d ~/.themes/ -t -c dark -s standard -l --tweaks darker rimless
 cd ~
 #Start sddm
-systemctl enable sddm
+# Check if sddm is already enabled
+if systemctl is-enabled --quiet sddm; then
+    echo "sddm is already enabled, skipping."
+else
+    echo "Enabling sddm..."
+    sudo systemctl enable sddm
+    sudo systemctl start sddm  # Optionally, start the service immediately
+    echo "sddm has been enabled and started."
+fi
+
+echo "Setting POWERLEVEL9K_INSTANT_PROMPT=off"
+# Check if POWERLEVEL9K_INSTANT_PROMPT=off is already in ~/.zshrc
+if ! grep -q "typeset -g POWERLEVEL9K_INSTANT_PROMPT=off" ~/.zshrc; then
+    # If not found, append it to the very last line of ~/.zshrc using sed
+    sed -i -e '$a\' -e 'typeset -g POWERLEVEL9K_INSTANT_PROMPT=off' ~/.zshrc
+    echo "Added typeset -g POWERLEVEL9K_INSTANT_PROMPT=off to the bottom of ~/.zshrc"
+else
+    echo "POWERLEVEL9K_INSTANT_PROMPT=off already exists in ~/.zshrc. Skipping."
+fi
 # Ask the user if they want to reboot the system
 read -p "Do you want to reboot your system now? (y/n): " choice
 case "$choice" in

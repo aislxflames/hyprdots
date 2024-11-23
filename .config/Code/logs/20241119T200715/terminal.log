@@ -1,3 +1,0 @@
-2024-11-19 20:07:21.502 [warning] Couldn't attach to process Could not find pty 1 on pty host []
-2024-11-19 20:07:21.502 [warning] Attach to process failed for terminal [{"id":1,"pid":2086,"title":"cava","titleSource":1,"cwd":"","icon":{"id":"terminal","defaults":{"fontCharacter":"\\ea85"}},"hasChildProcesses":true,"shellIntegrationNonce":"7fe64adc-fd9e-489f-998d-922769339f17","findRevivedId":true}]
-2024-11-19 20:27:02.921 [error] Exception occurred during xterm disposal [{}]

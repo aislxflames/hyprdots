@@ -1,9 +1,0 @@
-{
-    "editor.multiCursorModifier": "ctrlCmd",
-    "workbench.colorTheme": "Wal",
-    "workbench.iconTheme": "eq-material-theme-icons-darker",
-    "editor.minimap.enabled": false,
-    "window.customTitleBarVisibility": "auto",
-    "window.menuBarVisibility": "toggle",
-    "security.workspace.trust.untrustedFiles": "open"
-}
