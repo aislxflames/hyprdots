@@ -104,8 +104,6 @@ for pkg in "${packages[@]}"; do
     echo "Installing $pkg..."
     yay -S --needed --noconfirm "$pkg"
 done
-    yay -S graphite-gtk-theme-dark-compact
-
 echo "All packages installed successfully!"
 
 
