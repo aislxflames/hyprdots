@@ -150,7 +150,7 @@ if [ ! -d "$USER_HOME/.config" ]; then
     echo "Created .config directory at $USER_HOME"
 fi
 
-if [ -d "$SOURCE_CONFIG" ]; then
+if [ -d "$USER_HOME/.config" ]; then
     rsync -av --ignore-existing "$SOURCE_CONFIG/" "$USER_HOME/.config"
     echo "Synced .config to $USER_HOME"
 else
@@ -162,7 +162,7 @@ if [ ! -d "$USER_HOME/Wallpapers" ]; then
     echo "Created Wallpapers directory at $USER_HOME"
 fi
 
-if [ -d "$SOURCE_WALLPAPERS" ]; then
+if [ -d "$USER_HOME/Wallpapers" ]; then
     rsync -av --ignore-existing "$SOURCE_WALLPAPERS/" "$USER_HOME/Wallpapers"
     echo "Synced Wallpapers to $USER_HOME"
 else
