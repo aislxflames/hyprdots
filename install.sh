@@ -87,6 +87,7 @@ if [[ "$response" =~ ^[Yy]$ ]]; then
     neo-matrix
     tty-clock
     cliphist
+    rofimoji
     noto-fonts
     noto-fonts-cjk
     noto-fonts-emoji
@@ -100,13 +101,15 @@ if [[ "$response" =~ ^[Yy]$ ]]; then
     ttf-meslo-nerd-font-powerlevel10k
     gtk
     gnome-themes-standard
-    nautilus
+    gnome-software
     sassc
     rsync
     nwg-look
-    zsh-autosuggestions
-    zsh-syntax-highlighting
+    zsh-autosuggestions-git
+    zsh-syntax-highlighting-git
     pokemon-colorscripts-git
+    blueman
+    bluez
     swww
     hyprpaper
     sddm
@@ -229,8 +232,19 @@ fi
 cd /opt/Graphite-gtk-theme 
 sudo ./install.sh  -d ~/.themes/ -t -c dark -s standard -l --tweaks darker rimless
 cd ~
-#Start sddm
+# Check if bluetooth is already enabled
+
+if systemctl is-enabled --quiet bluetooth; then
+    echo "bluetooth is already enabled, skipping."
+else
+    echo "Enabling bluetooth..."
+    sudo systemctl enable bluetooth
+    sudo systemctl start bluetooth  # Optionally, start the service immediately
+    echo "bluetooth has been enabled and started."
+fi
+
 # Check if sddm is already enabled
+
 if systemctl is-enabled --quiet sddm; then
     echo "sddm is already enabled, skipping."
 else
