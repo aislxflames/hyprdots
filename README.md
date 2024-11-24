@@ -22,7 +22,7 @@ Follow these steps to install **FlamEs Dots** on your system:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/FlamEs-Dots.git
+git clone https://github.com/aislxflames/hyprdots
 cd FlamEs-Dots
 ```
 ### 2. Run install script
