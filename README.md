@@ -29,6 +29,6 @@ cd FlamEs-Dots
 
 ```bash
 chmod +x install.sh
-sudo ./install.sh
+./install.sh
 ```
 
