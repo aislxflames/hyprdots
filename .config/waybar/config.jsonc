@@ -4,18 +4,16 @@
     "hieght": "30",
     "spacing": 4,
 
-"modules-left": ["custom/appmenu","wlr/taskbar","hyprland/window"],
+"modules-left": ["custom/appmenu","wlr/taskbar","hyprland/window","cava"],
 "modules-center": ["hyprland/workspaces"],
 "modules-right": [
     "custom/updates",
     "pulseaudio",
     "bluetooth",
-    "battery", 
-    "memory",
-    "cpu",
     "network",
-    "tray",
-    "clock"
+    "battery", 
+    "clock",
+    "tray"
 ],
 
 "hyprland/workspaces": {
@@ -58,14 +56,14 @@
     },
 "battery": {
     "states": {
-      // "good": 95,
+      "good": 95,
       "warning": 30,
       "critical": 15
     },
-    "format": "{icon} {capacity}%",
+    "format": "{icon}{capacity}%",
     "format-charging": "  {capacity}%",
     "format-plugged": "  {capacity}%",
-    "format-alt": "{icon}  {time}",
+    "format-alt": "{icon} {time}",
     // "format-good": "", // An empty format will hide the module
     // "format-full": "",
     "format-icons": [" ", " ", " ", " ", " "]
@@ -73,21 +71,24 @@
   "memory":{
     "format":"M {}% /"
   },
-  "cpu":{
-    "format":"Cpu {}%"
-  },
+"cpu": {
+    "interval": 10,
+    "format": " {}%",
+    "max-length": 10
+},
     "network": {
         "format": "{ifname}",
-        "format-wifi": "   {ipaddr}",
+        "format-wifi": "",
         "format-ethernet": "  {ifname}",
         "format-disconnected": "Disconnected",
+        "format-wifi-alt": " {ssid}",
         "tooltip-format": " {ifname} via {gwaddri}",
         "tooltip-format-wifi": "  {ifname} @ {essid}\nIP: {ipaddr}\nStrength: {signalStrength}%\nFreq: {frequency}MHz\nUp: {bandwidthUpBits} Down: {bandwidthDownBits}",
         "tooltip-format-ethernet": " {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
         "tooltip-format-disconnected": "Disconnected",
         "max-length": 50,
-        "on-click": "~/.config/ml4w/settings/networkmanager.sh",
-        "on-click-right": "~/.config/ml4w/scripts/nm-applet.sh toggle",
+        "on-click": "nm-connection-editor",
+        "on-click-right": "nm-connection-editor",
       },
     "custom/appmenu": {
         // START APPS LABEL
@@ -124,7 +125,7 @@
     },
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
-        "format": "{icon}  {volume}% /",
+        "format": "{icon} {volume}% ",
         "format-bluetooth": "{volume}% {icon} {format_source}",
         "format-bluetooth-muted": " {icon} {format_source}",
         "format-muted": " {format_source}",
@@ -139,11 +140,11 @@
           "car": " ",
           "default": ["", "", ""]
         },
-        "on-click": "pavucontrol"
+        "on-click": "~/.config/waybar/scripts/pavu.sh"
       },
       "bluetooth": {
-        "format": " {status}",
-        "format-disabled": "",
+        "format": " ",
+        "format-disabled": " ",
         "format-off": "",
         "interval": 30,
         "on-click": "blueman-manager",
@@ -176,8 +177,17 @@
         "scroll-step": 1
       },
       "clock": {
-        "format": "🕛 {:%H:%M %a}",
+        "format": "{:%H:%M %a}",
         "on-click": "agsv1 -t calendar",
         "tooltip": false
-      }
+      },
+//alternate
+"custom/pacman": {
+    "format": "{}  ",
+    "interval": 3600,                     // every hour
+    "exec": "checkupdates | wc -l",       // # of updates
+    "exec-if": "exit 0",                  // always run; consider advanced run conditions
+    "on-click": "termite -e 'sudo pacman -Syu'; pkill -SIGRTMIN+8 waybar", // update system
+    "signal": 8
+}
 }

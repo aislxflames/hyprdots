@@ -62,7 +62,7 @@ do
     sed -i "s/gradient_color_7 = .*/gradient_color_7 = '$color7'/" ~/.config/cava/config
     sed -i "s/gradient_color_8 = .*/gradient_color_8 = '$color8'/" ~/.config/cava/config
     
-    # Restart CAVA to apply the new gradient
+    # Rest art CAVA to apply the new gradient
     pkill cava
     cava &
     //waybar

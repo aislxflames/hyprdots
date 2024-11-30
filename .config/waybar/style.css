@@ -21,7 +21,7 @@
  * {
     font-family: "Fira Sans Semibold", "Font Awesome 6 Free", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
     border: none;
-    font-size: 15px;
+    font-size: 14px;
     border-radius: 0px;
     background-color: rgba(255, 215, 196, 0);
     color: white;
@@ -30,49 +30,29 @@
     margin-right: 20px;
     margin-top: 5px;
 }
-#network{
-    background-color: @color10;
-    font-size: 16px;
-    border-radius: 16px;
-    padding: 0px 10px 0px 10px;
-    margin: 3px 15px 3px 14px;
-    border: 3px solid #FFF;
-}
-#clock{
-    background-color: @color10;
-    font-size: 16px;
-    border-radius: 16px;
-    padding: 0px 10px 0px 10px;
-    margin: 3px 15px 3px 14px;
-    border: 3px solid #FFF;
-}
 .modules-left{
     margin-left: 20px;
     margin-top: 5px;
 }
 #workspaces{
     background-color: @background;
-    font-size: 20px;
     border-radius: 400px;
-    padding: 0px 10px 0px 10px;
-    margin: 3px 15px 3px 14px;
-    border: 3px solid #FFF;
+    margin: 6px 15px 3px 14px;
+    border: 1px solid #FFF;
 }
 #custom-appmenu{
     background-color: @color10;
-    font-size: 16px;
-    border-radius: 16px;
+    border-radius: 40px;
     padding: 0px 10px 0px 10px;
-    margin: 3px 15px 3px 14px;
-    border: 3px solid #FFF;
+    margin: 6px 15px 3px 14px;
+    border: 1px solid #FFF;
 }
 #taskbar{
     background-color: @color10;
-    font-size: 10px;
-    border-radius: 16px;
+    border-radius: 100px;
     padding: 0px 7px 0px 7px;
-    margin: 3px 15px 3px 14px;
-    border: 3px solid #FFF;
+    margin: 6px 15px 3px 0px;
+    border: 1px solid #FFF;
 }
 #window{
     background: rgba(0, 0, 0, 0.541);
@@ -80,7 +60,30 @@
     padding: 2px 10px 0px 10px;
     border-radius: 12px;
     color:@textcolor2;
-    font-size:16px;
     font-weight:normal;
     opacity:0.8;
+}
+
+#pulseaudio{
+    font-size: 15px;
+}
+
+#network{
+    font-size: 20;
+    padding: 5px;
+}
+
+#battery.format{
+    font-size: 20px;
+}
+#clock{
+    background-color: @color10;
+    border-radius: 400px;
+    padding: 0px 10px 0px 10px;
+    margin: 5px 15px 3px 0px;
+    border: 1px solid #FFF;
+
+}
+#battery{
+    padding-right: 15px;
 }
