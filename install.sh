@@ -66,7 +66,7 @@ yay -Syu --noconfirm  > /dev/null 2>&1
 
 #!/bin/bash
     USER_HOME="/home/$(logname)"
-    SOURCE_CONFIG="./.config"
+    SOURCE_CONFIG="./dotfiles/.config"
     SOURCE_WALLPAPERS="./Wallpapers"
 # Ask if the user wants to proceed with the setup
 
@@ -84,6 +84,10 @@ echo "========================================================="
 
     # List of packages to install
     packages=(
+    flatpak
+    dunst
+    rofi-emoji-git
+    gnome-clocks
     hyprland
     waybar
     waypaper
@@ -100,7 +104,7 @@ echo "========================================================="
     noto-fonts
     noto-fonts-cjk
     noto-fonts-emoji
-    rofi-git
+    rofi-wayland
     drun
     alacritty
     vim
@@ -341,7 +345,6 @@ if systemctl is-enabled --quiet sddm; then
 else
     echo "Enabling sddm..."
     sudo systemctl enable sddm
-    sudo systemctl start sddm  # Optionally, start the service immediately
     echo "sddm has been enabled and started."
 fi
 
