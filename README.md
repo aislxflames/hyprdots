@@ -16,6 +16,9 @@
 ## Installation Steps
 
 Follow these steps to install **FlamEs Dots** on your system:
+## Screenshots
+![image](https://github.com/user-attachments/assets/cf056f6a-69c1-4aa3-b62a-08601a4799af)
+
 
 ### 1. Clone the Repository
 
