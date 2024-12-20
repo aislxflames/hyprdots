@@ -1,0 +1,17 @@
+{
+    "pyprland": {
+      "plugins": ["scratchpads"]
+    },
+    "scratchpads": {
+      "term": {
+        "command": "alacritty --class scratchpad",
+        "margin": 50
+      },
+      "pavucontrol": {
+        "command": "pavucontrol",
+        "margin": 50,
+        "unfocus": "hide",
+        "animation": "fromTop"
+      }
+    }
+  }

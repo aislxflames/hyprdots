@@ -29,34 +29,63 @@
 }
 .modules-center{
     font-weight: bold;
+    margin-top: 0px;
 }
 .modules-right{
-    margin-right: 20px;
-    margin-top: 5px;
+    margin-right: 0px;
+    margin-top: 0px;
 }
 .modules-left{
-    margin-left: 20px;
-    margin-top: 5px;
+    margin-left: 0px;
+    margin-top: 0px;
 }
-#workspaces{
-    background-color: @background;
-    border-radius: 400px;
-    margin: 6px 15px 3px 14px;
-    border: 3px solid #FFF;
-    padding: 3px 10px 3px 10px;
-}
-#workspaces button{
+#workspaces {
+    background: @background;
+    margin: 2px 1px 3px 1px;
+    padding: 0px 1px;
+    border-radius: 15px;
+    border: 0px;
     font-weight: bold;
-    font-size: 5px;
-    padding: 0px 5px 0px 0px;
-    border-radius: 60px;
+    font-style: normal;
+    opacity: 0.8;
+    font-size: 16px;
+    color: @textcolor1;
 }
-#custom-appmenu{
+
+#workspaces button {
+    padding: 0px 5px;
+    margin: 4px 3px;
+    border-radius: 15px;
+    border: 0px;
+    color: @textcolor1;
+    background-color: @background;
+    transition: all 0.3s ease-in-out;
+    opacity: 0.4;
+}
+
+#workspaces button.active {
+    color: @textcolor1;
+    background: @color12;
+    border-radius: 15px;
+    min-width: 40px;
+    transition: all 0.3s ease-in-out;
+    opacity:1.0;
+}
+
+#workspaces button:hover {
+    color: @textcolor1;
+    background: @color14;
+    border-radius: 15px;
+    opacity:0.7;
+}
+
+
+#custom-appmenuicon{
     font-weight: bold;
     background-color: @color10;
     border-radius: 40px;
     padding: 0px 10px 0px 10px;
-    margin: 6px 15px 3px 14px;
+    margin: 6px 5px 3px 14px;
     border: 1px solid #FFF;
 }
 #taskbar{
@@ -98,6 +127,7 @@
 
 
 #clock{
+    font-weight: bold;
     background-color: @color10;
     border-radius: 400px;
     padding: 0px 10px 0px 10px;
@@ -113,7 +143,7 @@
 }
 #battery{
     background-color: @background;
-    font-size: 14px;
+    font-size: 12px;
     color: @textcolor2;
     border-radius: 500px;
     padding: 2px 15px 0px 10px;

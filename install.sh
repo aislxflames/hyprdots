@@ -66,7 +66,7 @@ yay -Syu --noconfirm  > /dev/null 2>&1
 
 #!/bin/bash
     USER_HOME="/home/$(logname)"
-    SOURCE_CONFIG="./dotfiles/.config"
+    SOURCE_CONFIG="./dotfiles/"
     SOURCE_WALLPAPERS="./Wallpapers"
 # Ask if the user wants to proceed with the setup
 
@@ -190,8 +190,8 @@ echo "====================================================="
 read -p "Do you want to copy dotfiles and wallpapers (y/n): " response  # Capture user input into the response variable
 if [[ "$response" =~ ^[Yy]$ ]]; then
     echo "Copying .config and Wallpapers to $USER_HOME..."
-    cp -r "$SOURCE_CONFIG" "$USER_HOME/"
-    cp -r "$SOURCE_WALLPAPERS" "$USER_HOME/"
+    rsync -avi "$SOURCE_CONFIG" "$USER_HOME/"
+    rsync -avi "$SOURCE_WALLPAPERS" "$USER_HOME/"
     echo ".config and Wallpapers copied successfully!"
 else 
     echo "Skipping copying files"
