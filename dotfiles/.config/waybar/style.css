@@ -58,7 +58,7 @@
     border-radius: 15px;
     border: 0px;
     color: @textcolor1;
-    background-color: @background;
+    background-color: @color9;
     transition: all 0.3s ease-in-out;
     opacity: 0.4;
 }
@@ -120,9 +120,7 @@
     padding: 0px 10px 0px 10px;
     border-radius: 400px;
     background-color: @color10;
-    border: 3px solid #FFF;
     margin: 5px 6px 3px 0px;
-
 }
 
 
@@ -132,15 +130,9 @@
     border-radius: 400px;
     padding: 0px 10px 0px 10px;
     margin: 5px 15px 3px 0px;
-    border: 3px solid #FFF;
 
 }
 
-#custom-pmenu{
-    font-size: 18px;
-    font-weight: bold;
-
-}
 #battery{
     background-color: @background;
     font-size: 12px;
@@ -150,7 +142,7 @@
     margin: 7px 15px 7px 0px;
     opacity:0.8;
 }
-#bluetooth {
+#pulseaudio {
     background-color: @background;
     font-size: 14px;
     color: @textcolor2;
@@ -160,7 +152,7 @@
     opacity:0.7;
 }
 
-#pulseaudio {
+#custom-pacman {
     background-color: @background;
     font-size: 14px;
     color: @textcolor2;
@@ -168,4 +160,14 @@
     padding: 2px 10px 0px 10px;
     margin: 7px 0px 7px 0px;
     opacity:0.7;
+}
+
+#custom-pmenu,
+#custom-stats,
+#custom-shotcuts
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: @cursor;
+    padding: 5px;
 }

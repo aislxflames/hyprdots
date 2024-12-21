@@ -7,11 +7,13 @@
 "modules-left": ["custom/appmenuicon","wlr/taskbar","hyprland/window","cava"],
 "modules-center": ["hyprland/workspaces"],
 "modules-right": [
-    "custom/updates",    
+    "custom/pacman",
     "pulseaudio",
-    "bluetooth",
     "battery", 
     "tray",
+    "custom/stats",
+    "custom/shotcuts",
+    "bluetooth",
     "custom/pmenu",
     "network",
     "clock"
@@ -126,10 +128,10 @@
         "on-click": "~/.config/waybar/scripts/pavu.sh"
       },
       "bluetooth": {
-        "format": " {status}",
+        "format": "",
         "format-disabled": "",
         "interval": 30,
-        "on-click": "blueman-manager",
+        "on-click": "pypr toggle bluetooth && hyprctl dispatch brigactivetotop",
         "format-no-controller": ""
       },
       "user": {
@@ -159,13 +161,13 @@
         "scroll-step": 1
       },
       "clock": {
-        "format": "{:%H:%M}",
-        "on-click": "agsv1 -t calendar",
+        "format": "{:%H:%M %a}",
+        "on-click": "gnome-clocks",
         "tooltip": false
       },
 //alternate
 "custom/pacman": {
-    "format": "{}  ",
+    "format": " {}",
     "interval": 3600,                     // every hour
     "exec": "checkupdates | wc -l",       // # of updates
     "exec-if": "exit 0",                  // always run; consider advanced run conditions
@@ -173,8 +175,18 @@
     "signal": 8
 },
 "custom/pmenu": {
-  "format": " ⏻ ",
+  "format": "⏻",
   "on-click": "~/.config/rofi/scripts/powermenu_t6"
+
+},
+"custom/stats": {
+  "format": " 󰓅",
+  "on-click": "pypr toggle btop && hyprctl dispatch brigactivetotop"
+
+},
+"custom/shotcuts": {
+  "format": "",
+  "on-click": "rofi -show keys"
 
 }
 }

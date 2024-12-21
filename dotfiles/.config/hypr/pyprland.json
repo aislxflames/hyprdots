@@ -12,6 +12,19 @@
         "margin": 50,
         "unfocus": "hide",
         "animation": "fromTop"
+      },
+      "bluetooth": {
+        "command": "blueman-manager",
+        "margin": 50,
+        "unfocus": "hide",
+        "animation": "fromTop"
+      },
+      "btop": {
+        "command": "alacritty -e btop",
+        "margin": 50,
+        "unfocus": "hide",
+        "animation": "fromTop"
       }
+
     }
   }
